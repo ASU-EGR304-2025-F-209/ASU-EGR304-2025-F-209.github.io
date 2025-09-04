@@ -6,12 +6,12 @@ tags:
 ---
 <center>
 <font size="8">Project Name<br>
-<font size="5">Team ###<br>
-**Submission: month, DD, YYYY**<br>
+<font size="5">Team 209<br>
+**Submission: September, 04, 2025**<br>
 Semester and Year<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Professor Name<br>
+Professor Kevin Nichols<br>
   
 
 </center>
@@ -26,7 +26,7 @@ Professor Name<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Andrew Imoukhuede               | [JohnDoe.GitHub](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/) |
-| Name #2                | link |
-| Name #3                | link |
-| Name #4                | link |
+| Andrew Imoukhuede      | [Aimoukhu.github](https://github.com/Aimoukhu/Aimoukhu.github.io) |
+| Bryce Weber            | link |
+| Dylan Vierra-Guillermo | link |
+| Matther Sanderson      | link |
