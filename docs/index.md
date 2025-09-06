@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Team 209 Project<br>
+<font size="8">Chat-Link<br>
 <font size="5">Team 209<br>
 **Submission: September, 04, 2025**<br>
 Fall 2025<br>
@@ -17,9 +17,8 @@ Professor Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+> **This will be updated as part of the preparation for the External Review.<br>
+> Team 209 is a collaborative engineering group dedicated to pushing the boundaries of human communication through innovative technology. We aim to design and build an implantable device that enables users to  learn, translate, and communicate in new languages by integrating a real-time language processing and speaking system. This device removes barriers of language, accelerates learning, and allows instant multilingual communication. Through this project, we seek not only to create a functional and reliable prototype but also to develop as a cohesive team, applying engineering practices and innovative thinking, to deliver a product with real-world impact.
 
 
 ## Team Members Datasheet links
