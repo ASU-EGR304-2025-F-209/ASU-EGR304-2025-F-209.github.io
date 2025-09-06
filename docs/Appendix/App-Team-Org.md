@@ -39,20 +39,20 @@ _**Appendix Table 2**: Weekly Schedule_
 
 |   Time   | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday  | Saturday |
 |:--------:|:------:|:------:|:-------:|:---------:|:--------:|:-------:|:--------:|
-| 8:00 AM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
-| 9:00 AM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
-| 10:00 AM |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
-| 11:00 AM |   -    |   -    |    M    |     -     |    M     |    -    |    -     |
-| 12:00 PM |   -    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
-| 1:00 PM  |   -    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
-| 2:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
-| 3:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
-| 4:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
-| 5:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
-| 6:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
-| 7:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
-| 8:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
-| 9:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
+| 8:00 AM  |   A    |   -    |    -    |     -     |    -     |    -    |    -     |
+| 9:00 AM  |   A    |   -    |    -    |     -     |    -     |    -    |    -     |
+| 10:00 AM |   A    |   -    |    -    |     -     |    -     |    -    |    -     |
+| 11:00 AM |   -    |   -    |    -    |     -     |    -     |    -    |    -     |
+| 12:00 PM |   -    |   -    |    -    |     -     |    -     |    -    | A,B,D,M  |
+| 1:00 PM  |   -    |   -    |    -    |     -     |    -     |    -    | A,B,D,M  |
+| 2:00 PM  |   A,M  |   -    |    -    |     -     |    -     |    -    | A,B,D,M  |
+| 3:00 PM  |   A,M  |   -    |    -    |     -     |    -     |    -    | A,B,D,M  |
+| 4:00 PM  |   A,M  |   M    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 5:00 PM  |   A,M  |   M    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 6:00 PM  |   A,M  |   M    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 7:00 PM  |   A,M  |   M    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 8:00 PM  |   A,M  |   M    |    M    |     -     |    M     |    -    |    -     |
+| 9:00 PM  |   A,M  |   M    |    M    |     -     |    M     |    -    |    -     |
 
 _**Table Legend for Appendix Table 2**_
 
