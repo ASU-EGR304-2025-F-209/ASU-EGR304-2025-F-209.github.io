@@ -29,4 +29,4 @@ Professor Kevin Nichols<br>
 | Andrew Imoukhuede      | [Aimoukhu.github.io](https://github.com/Aimoukhu/Aimoukhu.github.io) |
 | Bryce Weber            | [CottageFox.github.io](https://github.com/CottageFox/CottageFox.github.io) |
 | Dylan Vierra-Guillermo | [Dvierrag.github.io](https://github.com/dvierrag/dvierrag.github.io) |
-| Matther Sanderson      | [Msande84.github.io](https://github.com/msande84/msande84.github.io) |
+| Matthew Sanderson      | [Msande84.github.io](https://github.com/msande84/msande84.github.io) |
