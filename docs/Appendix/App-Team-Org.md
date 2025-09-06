@@ -22,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 | Andrew Imoukhuede      | Text                       | Discord                     | N/A                        |
 | Bryce Weber            | Text                       | Discord                     | Call                       |
 | Dylan Vierra-Guillermo | Text                       | Discord                     | N/A                        |
-| Matther Sanderson      | Text                       | Discord                     | N/A                        |
+| Matthew Sanderson      | Text                       | Discord                     | N/A                        |
 
 ### Main Method for Group Communication
 
@@ -96,4 +96,4 @@ _**Appendix Table 2**: Project Roles and Duties_
 Andrew Imoukhuede
 Bryce Weber
 Dylan Vierra-Guillermo
-Matther Sanderson
+Matthew Sanderson
