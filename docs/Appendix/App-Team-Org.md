@@ -13,70 +13,70 @@ List at least five shared goals that reflect a successful product with regard to
 
 _**Appendix Table 1**: Team Member Communication Modes_
 
-|Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
-|---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
-|Member 2 |  ? | ? | ? |
-|Member 3 |  ? | ? | ? |
-|Member 4 |  ? | ? | ? |
+| Name                   | First Choice Communication | Second Choice Communication | Third Choice Communication |
+|------------------------|----------------------------|-----------------------------|----------------------------|
+| Andrew Imoukhuede      | Text                       | Discord                     | N/A                        |
+| Bryce Weber            | Text                       | Discord                     | Call                       |
+| Dylan Vierra-Guillermo | Text                       | Discord                     | N/A                        |
+| Matther Sanderson      | Text                       | Discord                     | N/A                        |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is text message. A discord call will be used if there is a need to collaborate simultaneously and a meet-up is not possible.
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
+1. All communication will start over text message. A text notification will be sent to the teams group chat is a member feels the need for further action on a project.
+2. Instructor correspondence will be relaid to the team by the team leader. The leader will be responsible for making sure the team is aware of any update to the requirements set for the projects.
 
 ## Meeting Schedule
 
 _**Appendix Table 2**: Weekly Schedule_
 
-| Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
-| :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+|   Time   | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday  | Saturday |
+|:--------:|:------:|:------:|:-------:|:---------:|:--------:|:-------:|:--------:|
+| 8:00 AM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
+| 9:00 AM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
+| 10:00 AM |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
+| 11:00 AM |   -    |   -    |    M    |     -     |    M     |    -    |    -     |
+| 12:00 PM |   -    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
+| 1:00 PM  |   -    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
+| 2:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
+| 3:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    | A,B,D,M  |
+| 4:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 5:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 6:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 7:00 PM  |   A    |   -    |    M    |  A,B,D,M  |    M     | A,B,D,M | A,B,D,M  |
+| 8:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
+| 9:00 PM  |   A    |   -    |    M    |     -     |    M     |    -    |    -     |
 
 _**Table Legend for Appendix Table 2**_
 
-| Name | Abbreviation |
-| ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Name    | Abbreviation |
+|---------|:------------:|
+| Andrew  |      A       |
+| Bryce   |      B       |
+| Dylan   |      D       |
+| Matthew |      M       |
 
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1. When a meeting is set over text, every team member is expected to make a personal reminder of the meeting time.
+1. Any change to the meeting time or location should only be done through call to ensure every member is aware and on-board with the idea.
+1. The default format of the meetings will be over discord. Any need to meet-up should be communicated over the initial text message, and a required subsequent call.
+1. A meeting must contain a minimum of three available members of the team, should it be impossible to find a time that works for all 4.
 
 ## Roles & Responsibilities
 
 _**Appendix Table 2**: Project Roles and Duties_
 
-| **Role**          | **Duties**                                                                                                                                |
-| :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| **Role**          | **Member** | **Duties**                                                                                                                                |
+|:------------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------|
+| Meeting leader    | Bryce      | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder  | Matthew    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader | Andrew     | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor   | Dylan      | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
