@@ -84,7 +84,11 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+1. All conflicts will first be addressed among team members.
+2. In cases of escalation, the team leader is to have the final say on any form of meditation or compromise.
+3. In cases where conflict is based on problems beyond student resolution, the team leader (or involved party) is to consult and make the teacher aware of the situation.
+4. If the team leader enforces a compromise or arbitration in which the involved party is displeased with, the member can bring it up to the teacher to approve of the solution enforced.
+
 
 
 ## Signatures
