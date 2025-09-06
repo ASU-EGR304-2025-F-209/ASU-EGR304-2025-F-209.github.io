@@ -93,7 +93,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Signatures
 
-Andrew Imoukhuede
-Bryce Weber
-Dylan Vierra-Guillermo
+Andrew Imoukhuede<br>
+Bryce Weber<br>
+Dylan Vierra-Guillermo<br>
 Matther Sanderson
