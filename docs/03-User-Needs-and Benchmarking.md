@@ -6,24 +6,22 @@ title: User Needs and Benchmarking
 
 ### Search #1
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "smart door sensor" on Google.com
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
+**Search Results Link:** [https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1VDKB_enUS1093US1093&sxsrf=AE3TifMkpY1gexsF5ayPDJEhy27Zu6m1mQ:1757987142256&q=smart+door+sensor&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcAutntzzMkpzL1o5CSBDD8I2LFmZthekWYMSoJkRUd-qkF-YfrLLnbTB66EUfmOKya3Ca_s42egkD0HBUwwnnRIONWNCg&ved=1t:200715&ictx=111&biw=1707&bih=772&dpr=1.13](https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1VDKB_enUS1093US1093&sxsrf=AE3TifMkpY1gexsF5ayPDJEhy27Zu6m1mQ:1757987142256&q=smart+door+sensor&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcAutntzzMkpzL1o5CSBDD8I2LFmZthekWYMSoJkRUd-qkF-YfrLLnbTB66EUfmOKya3Ca_s42egkD0HBUwwnnRIONWNCg&ved=1t:200715&ictx=111&biw=1707&bih=772&dpr=1.13)
 
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 1. [SimpliSafe - 1pack Entry Sensor - White](https://www.bestbuy.com/product/simplisafe-1pack-entry-sensor-white/J3L6GWR5Y9/sku/6298671?extStoreId=1002&utm_source=feed&ref=212&loc=19622165980&gad_source=1&gad_campaignid=19622372546&gbraid=0AAAAAD-ORIgCeeB7NVDYp4NzQfjBpxbZi&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ37jvC11GpJ7mNqmYiR5xoez38PUxup04ekVRZHQW2AgaQMYnV3ZqkaAg6VEALw_wcB&gclsrc=aw.ds) < (link to the product)
 
-![](image1.png)
+![<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/a7d94abe-74f4-4627-8f39-63c3dbdeac76" />
+](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6298/6298671cv11d.jpg;maxHeight=1920;maxWidth=900?format=webp)
 
-**(include a picture)**
+* Price: $15.99
 
-* Price: $65
+* Vendor: Best Buy
 
-* Vendor: Amazon
-
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
-
+* Description: Protect all the doors and windows in your home from break-ins with the SimpliSafe entry sensor. Working in tandem with your existing SimpliSafe protection package, this compact and discreet entry sensor goes unnoticed. Installation is a snap: simply place this SimpliSafe entry sensor on any window or door frame, and tap Add Device on your keypad.
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
