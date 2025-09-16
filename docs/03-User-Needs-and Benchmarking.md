@@ -68,7 +68,8 @@ LRM3320W/27
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
+| "Peace of mind for a very small price.
+I'm impressed by the volume or the alarms from such a small device. I can hear it from anywhere in my home. I feel the noise will deter entry by itself, but it's settling to know I'll be aware of any entry or attempts. When my small grandchildren visit me, I'll know if they try to exit as well. The sensor very well-designed. I've had no false alarms or failures to sound as intended to date. Installation was a breeze, and the adhesive is quite strong." | 1.  The sensor provides a sense or security                                         |
 |                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
 |                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
 
