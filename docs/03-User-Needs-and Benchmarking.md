@@ -52,7 +52,7 @@ title: User Needs and Benchmarking
 
 **(include a picture)**
 
-* Price: $65
+* Price: $14.97
 
 * Vendor: Walmart
 
