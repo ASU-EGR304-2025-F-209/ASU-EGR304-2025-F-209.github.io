@@ -198,8 +198,10 @@ Requires the Ring Alarm Base Station.
 [![UserNeeds](https://github.com/user-attachments/assets/22dd2067-5531-4801-9ad5-227f39ecd84a)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeeds.jpeg)
 
 ### Grouped with categories
+[![UserNeedsSorted (1)](https://github.com/user-attachments/assets/832ee8fe-da0e-438e-acee-cafb4a96fe08)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeedsSorted.jpeg)
 
 ### Ranked
+[![UserNeedsRanked (1)](https://github.com/user-attachments/assets/e8a5f868-2817-4359-a20c-6873502f6b35)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeedsRanked.jpeg)
 
 ## Compiled list of user Needs
 
