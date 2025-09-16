@@ -202,7 +202,33 @@ Requires the Ring Alarm Base Station.
 
 ## Compiled list of user Needs
 
-1. The device will...
-1. The device is ...
-1. The device can ...
-100. The device is...
+1. Sufficient battery life so you don't have to change the batteries.
+2. There needs to be some adhesive material to keep the product in place.
+3. The product should be easy and quick to install.
+4. The product shoould describe if it works with other similar products.
+5. Make sure the product is durable enough to last a long time.
+6. Sell the product with all the needed parts to work.
+7. The sensor provides a sense of safety
+8. The sensor is easy to install
+9. The sensor is loud enough to hear anywhere in a home
+10. The sensor should require a security shut-off code.
+11. The sensor should have volume control
+12. The sensor should clearly mark what surface is needed for mounting
+13. The device uses clear communication.
+14. The device is easy to setup and understand.
+15. The device is accurate and durable over numerous uses.
+16. The device is mechanically strong and stable.
+17. The device feels high quality.
+18. The device functions properly
+19. Easy to Set Up and Works Great
+20. Installation more forgiving than expected
+21. Best option for wireless
+22. Wants the sensor to work without requiring the full base station.
+23. Wants the system to maintain connectivity during power/internet outages.
+24. Wants timely and helpful assistance when products fail.
+25. The device instructions are easy to follow.
+26. The device is easy to setup.
+27. The device features is easy to fully learn
+28. The device is able to last multiple uses across a year.
+29. The device is easy to troubleshoot.
+30. The device displays system status.
