@@ -12,7 +12,7 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-[SimpliSafe - 1pack Entry Sensor - White](https://www.bestbuy.com/product/simplisafe-1pack-entry-sensor-white/J3L6GWR5Y9/sku/6298671?extStoreId=1002&utm_source=feed&ref=212&loc=19622165980&gad_source=1&gad_campaignid=19622372546&gbraid=0AAAAAD-ORIgCeeB7NVDYp4NzQfjBpxbZi&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ37jvC11GpJ7mNqmYiR5xoez38PUxup04ekVRZHQW2AgaQMYnV3ZqkaAg6VEALw_wcB&gclsrc=aw.ds) < (link to the product)
+- [SimpliSafe - 1pack Entry Sensor - White](https://www.bestbuy.com/product/simplisafe-1pack-entry-sensor-white/J3L6GWR5Y9/sku/6298671?extStoreId=1002&utm_source=feed&ref=212&loc=19622165980&gad_source=1&gad_campaignid=19622372546&gbraid=0AAAAAD-ORIgCeeB7NVDYp4NzQfjBpxbZi&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ37jvC11GpJ7mNqmYiR5xoez38PUxup04ekVRZHQW2AgaQMYnV3ZqkaAg6VEALw_wcB&gclsrc=aw.ds) < (link to the product)
 
 ![<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/a7d94abe-74f4-4627-8f39-63c3dbdeac76" />
 ](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6298/6298671cv11d.jpg;maxHeight=1920;maxWidth=900?format=webp)
@@ -26,12 +26,9 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Battery lasts year on windows and about a year on a door. Easily replaced when they run out. Good small profile product." | 
-|1.  Sufficient battery life so you don't have to change the batteries|
-| "Weak Tape but good product, We have an entire system but needed another sensor. For whatever reason it ended up barely hanging after a week. I had to get new double stick tape to get it to stay up." |
-|2.  There needs to be some adhesive material to keep the product in place |
-| "Simply safe are a high quality product. 2 minute install, adding to base station is a snap and sticking these sensors up is easy." |
-|3.  Easy and quick to install |
+| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
+|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
+|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
 
 ##### Negative Comments
 
@@ -49,9 +46,11 @@ title: User Needs and Benchmarking
 
 ### Selected Products
 
-#### 1. [Philips Personal Security Window and Door Alarm, 4-Pack, White](https://www.walmart.com/ip/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White/906555021?wmlspartner=wlpa&selectedSellerId=0&wl13=5768&gclsrc=aw.ds&adid=22222222277906555021_117755028669_12420145346&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-394283752452&wl5=9030087&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=906555021&veh=sem_LIA&gclsrc=aw.ds&gad_source=1&gad_campaignid=12420145346&gbraid=0AAAAADmfBIoHeL4fbRZWeSEgBWhJ2Tyx6&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ3aKevhMpAPu5QlScz7LOXc8oG_1GC1nvhKRQt-qB6e_N6IoNe5uZ4aAiEMEALw_wcB) < (link to the product)
+- [Philips Personal Security Window and Door Alarm, 4-Pack, White](https://www.walmart.com/ip/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White/906555021?wmlspartner=wlpa&selectedSellerId=0&wl13=5768&gclsrc=aw.ds&adid=22222222277906555021_117755028669_12420145346&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-394283752452&wl5=9030087&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=906555021&veh=sem_LIA&gclsrc=aw.ds&gad_source=1&gad_campaignid=12420145346&gbraid=0AAAAADmfBIoHeL4fbRZWeSEgBWhJ2Tyx6&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ3aKevhMpAPu5QlScz7LOXc8oG_1GC1nvhKRQt-qB6e_N6IoNe5uZ4aAiEMEALw_wcB) < (link to the product)
 
 ![<img width="900" height="675" alt="image" src="https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF" />](https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
+
+**(include a picture)**
 
 * Price: $14.97
 
@@ -69,9 +68,9 @@ LRM3320W/27
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "Peace of mind for a very small price. I'm impressed by the volume or the alarms from such a small device. I can hear it from anywhere in my home. I feel the noise will deter entry by itself, but it's settling to know I'll be aware of any entry or attempts. When my small grandchildren visit me, I'll know if they try to exit as well. The sensor very well-designed. I've had no false alarms or failures to sound as intended to date. Installation was a breeze, and the adhesive is quite strong." | 1.  The sensor provides a sense or security (explicit)                              |
-|                                                                                                                                                                                        | 2.  The sensor can be heard from anywhere in the home (explicit) |
-|                                                                                                                                                                                        | 3.  The sensor is easy to install (explicit)                               |
+| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
+|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
+|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
 
 ##### Negative Comments
 
@@ -89,7 +88,7 @@ LRM3320W/27
 
 ### Selected Products
 
-[Smart Door Lock,Blacksmith Biometric Keyless Electronic Door Lock With APP Control,Fingerprint Smart Lock Deadbolt for Home,Apartment,Office and Garages,Black](https://www.walmart.com/ip/Smart-Door-Lock-Blacksmith-Biometric-Keyless-Electronic-Door-Lock-APP-Control-Fingerprint-Smart-Lock-Deadbolt-Home-Apartment-Office-Garages-Black/8062551135?classType=VARIANT&athbdg=L1400&adsRedirect=true) < (link to the product)
+- [Smart Door Lock,Blacksmith Biometric Keyless Electronic Door Lock With APP Control,Fingerprint Smart Lock Deadbolt for Home,Apartment,Office and Garages,Black](https://www.walmart.com/ip/Smart-Door-Lock-Blacksmith-Biometric-Keyless-Electronic-Door-Lock-APP-Control-Fingerprint-Smart-Lock-Deadbolt-Home-Apartment-Office-Garages-Black/8062551135?classType=VARIANT&athbdg=L1400&adsRedirect=true) < (link to the product)
 
 ![](image4.png)
 
@@ -124,10 +123,10 @@ LRM3320W/27
 
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+- [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
 
-![[<img width="522" height="522" alt="image" src="https://github.com/user-attachments/assets/0fef515c-f154-4e92-9f74-2dd0d1930d7a" />
-](https://m.media-amazon.com/images/I/41siPqHKP1L._SX522_.jpg)]([image1.png](https://m.media-amazon.com/images/I/41siPqHKP1L._SX522_.jpg))
+![![41siPqHKP1L _SX522_](https://github.com/user-attachments/assets/1896111d-6af4-4915-b2f5-0428b6fff525)
+](image1.png)
 
 **(include a picture)**
 
@@ -148,23 +147,25 @@ Requires the Ring Alarm Base Station.
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "I picked up the Ring Alarm Contact Sensor for one of my entry doors and was really impressed with how easy the whole process was. Setup was super simple, basically just pulled it out of the box, followed the app instructions, and it connected without any issues.
+
 What I really liked is that it already had adhesive tape applied, so I didn’t even need to dig out tools or screws. I just peeled the backing off and stuck it directly to the door and frame. Took maybe two minutes total.
-It’s been working perfectly since, alerting me right away whenever the door opens. It’s a solid little sensor and blends in nicely without being too noticeable." | 1.   Easy to Set Up and Works Great|
-|"I purchased these sensors to add to my security system. Super easy to connect to base station and configure. A bit challenging to mount on an inswing recessed door. I ended up chiseling a small hole in the door jamb to insert the magnet and mounted the sensor portion to the door. For installation on windows, I was able to mount the 2 pieces and right angles to each other and still have reliable pickup/dropout of the contact."| 2. Installation more forgiving than expected |
-| "I had new Windows installed and was using previous wired contacts with my ring alarm. Needed to install new ring wireless contacts and they work perfectly. Very easy to set-up but I do wish there was a smaller version available." | 3. Best option for wireless                               |
+
+It’s been working perfectly since, alerting me right away whenever the door opens. It’s a solid little sensor and blends in nicely without being too noticeable." | 1.   Easy to Set Up and Works Great!
+                            |
+|                                                                                                                                                    "I purchased these sensors to add to my security system. Super easy to connect to base station and configure. A bit challenging to mount on an inswing recessed door. I ended up chiseling a small hole in the door jamb to insert the magnet and mounted the sensor portion to the door. For installation on windows, I was able to mount the 2 pieces and right angles to each other and still have reliable pickup/dropout of the contact."         | 2.  Installation more forgiving than expected |
+|                                                                                                                                                      "I had new Windows installed and was using previous wired contacts with my ring alarm. Needed to install new ring wireless contacts and they work perfectly. Very easy to set-up but I do wish there was a smaller version available."                      | 3. Best option for wireless                               |
 
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | "We are fans of ring but this was not a good experience. Bought the product and was away on work travel for a month. Got back to install, and this simple sensor did not work but it was 1 day after the 30 day purchase so had to call Ring support who made me spent a lot of time i did not have to then tell me it was defective and they would send a new one that will not get here before i leave on another month long project and on top of that i have to take the old sensor to the UPS store - more time that I did not have. This is not what we expect from Amazon owned Ring." | 1.  
- stars Defective and Out of Warranty by 1 Day - Waste of Time |
+ stars Defective and Out of Warranty by 1 Day - Waste of Time                       |
 | "Why did you pick this product vs others?:
 Don't be fooled and think you can buy just this and it will connect to your phone.  Apparently you NEED TO BUY THE WHOLE BASE STATION for this thing to even connect to the app.  What a f***ing disappointment.  DO BETTER Ring.  Instant return and will be buying a cheap Chinese counterpart that at least doesn't force me to buy the whole $100 base station as well." | 2.  DOES NOT WORK UNLESS YOU BUY ENTIRE BASE STATION !!!!! |
 |   "I've been a loyal Ring customer for years. One of the things that attracted me to Ring in the first place was its cellular backup feature. After ensuring that my area had coverage, I purchased the base station and many sensors. Amid the recent southern California wildfires, my power went out and so did my internet. Unfortunately, my Ring base station failed to establish a cellular connection. This was highly regrettable, because a cellular connection was what I needed most during the disaster and threats of looting. After hours of troubleshooting with Ring support, I was simply told that I was out of luck - that the cellular connection provided by ATT must have spontaneously changed, and there was nothing I nor they could do. So, despite investing hundreds of dollars in Ring and being a loyal customer for years, I was simply told "good luck."
 
 I would not recommend Ring hardware or services."  | 3.  Unreliable Ring Service - Avoid           |
-
 
 ## Search #5
 
