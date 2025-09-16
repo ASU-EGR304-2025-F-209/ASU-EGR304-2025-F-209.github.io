@@ -123,7 +123,8 @@ LRM3320W/27
 
 ### Selected Products
 
-#### 5. [Ring Alarm Contact Sensor ]([https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/](https://www.amazon.com/Ring-Alarm-Contact-Sensor/dp/B07ZB2QLC2/ref=sr_1_1_ffob_sspa?dib=eyJ2IjoiMSJ9.tU2e80nqYSA3ovcOAJyKw8vVMqFinVR1OkO60DE1DMrcrAxWZ6pryp_59vXtTMkhZdRLrnzjZbvTmq-hjYkjTiQYbE6Y2QEoHHAI04rwxnxyJrd9lewXk_Y3duc6-zxV4suQtYF26M6yjdVDP9gG0sGPP2RhSFC0LfJvM-eZOMFB4WSsxxsK7eyQLRUsrQ20dpu-0WRfX0dfu5Jbt7vMDnRy9gNwfXEmR9Eedq0GeJVmokasLm-RVGJEg-t4R_FZk0xHqpv4anoUGAYzfAZkM8xd-vg4qe7_eMCVKXgE5MY.2e60TA4VNvFtaH8Aij47fW4eFd_lEzPR08fm7cJOr-M&dib_tag=se&hvadid=693436698919&hvdev=c&hvexpln=67&hvlocphy=9030087&hvnetw=g&hvocijid=2589310319649486253--&hvqmt=e&hvrand=2589310319649486253&hvtargid=kwd-296621519014&hydadcr=14855_13354703&keywords=door%2Bopen%2Bsensor&mcid=26bc438737bc34e7ae1ecb963677edef&qid=1757991605&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1)) < (link to the product)
+#### 5. [Ring Alarm Contact Sensor ]([https://a.co/d/9n1H6go) < (link to the product)
+
 
 ![<img width="900" height="675" alt="image" src="https://m.media-amazon.com/images/I/41siPqHKP1L._SX522_.jpg"/>](image1.png)
 
