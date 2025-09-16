@@ -26,9 +26,12 @@ title: User Needs and Benchmarking
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+| "Battery lasts year on windows and about a year on a door. Easily replaced when they run out. Good small profile product." | 
+|1.  Sufficient battery life so you don't have to change the batteries|
+| "Weak Tape but good product, We have an entire system but needed another sensor. For whatever reason it ended up barely hanging after a week. I had to get new double stick tape to get it to stay up." |
+|2.  There needs to be some adhesive material to keep the product in place |
+| "Simply safe are a high quality product. 2 minute install, adding to base station is a snap and sticking these sensors up is easy." |
+|3.  Easy and quick to install |
 
 ##### Negative Comments
 
