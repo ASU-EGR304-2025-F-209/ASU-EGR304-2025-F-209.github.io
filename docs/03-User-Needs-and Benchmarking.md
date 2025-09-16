@@ -126,7 +126,7 @@ I'm impressed by the volume or the alarms from such a small device. I can hear i
 
 #### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
 
-![![41siPqHKP1L _SX522_](https://github.com/user-attachments/assets/1896111d-6af4-4915-b2f5-0428b6fff525)
+![<img width="522" height="522" alt="image" src="https://github.com/user-attachments/assets/d3cac281-7c51-4a9a-9d76-aa902913e882" />
 ](image1.png)
 
 **(include a picture)**
@@ -148,11 +148,9 @@ Requires the Ring Alarm Base Station.
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | "I picked up the Ring Alarm Contact Sensor for one of my entry doors and was really impressed with how easy the whole process was. Setup was super simple, basically just pulled it out of the box, followed the app instructions, and it connected without any issues.
-
 What I really liked is that it already had adhesive tape applied, so I didn’t even need to dig out tools or screws. I just peeled the backing off and stuck it directly to the door and frame. Took maybe two minutes total.
-
 It’s been working perfectly since, alerting me right away whenever the door opens. It’s a solid little sensor and blends in nicely without being too noticeable." | 1.   Easy to Set Up and Works Great!
-                            |
+ |
 |                                                                                                                                                    "I purchased these sensors to add to my security system. Super easy to connect to base station and configure. A bit challenging to mount on an inswing recessed door. I ended up chiseling a small hole in the door jamb to insert the magnet and mounted the sensor portion to the door. For installation on windows, I was able to mount the 2 pieces and right angles to each other and still have reliable pickup/dropout of the contact."         | 2.  Installation more forgiving than expected |
 |                                                                                                                                                      "I had new Windows installed and was using previous wired contacts with my ring alarm. Needed to install new ring wireless contacts and they work perfectly. Very easy to set-up but I do wish there was a smaller version available."                      | 3. Best option for wireless                               |
 
