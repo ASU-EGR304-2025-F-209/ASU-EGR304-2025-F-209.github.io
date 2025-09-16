@@ -48,7 +48,7 @@ title: User Needs and Benchmarking
 
 #### 1. [Philips Personal Security Window and Door Alarm, 4-Pack, White](https://www.walmart.com/ip/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White/906555021?wmlspartner=wlpa&selectedSellerId=0&wl13=5768&gclsrc=aw.ds&adid=22222222277906555021_117755028669_12420145346&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-394283752452&wl5=9030087&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=906555021&veh=sem_LIA&gclsrc=aw.ds&gad_source=1&gad_campaignid=12420145346&gbraid=0AAAAADmfBIoHeL4fbRZWeSEgBWhJ2Tyx6&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ3aKevhMpAPu5QlScz7LOXc8oG_1GC1nvhKRQt-qB6e_N6IoNe5uZ4aAiEMEALw_wcB) < (link to the product)
 
-![](image1.png)
+![<img width="900" height="675" alt="image" src="https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF" />](https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 
 **(include a picture)**
 
