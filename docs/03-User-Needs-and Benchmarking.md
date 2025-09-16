@@ -78,31 +78,31 @@ title: User Needs and Benchmarking
 
 ## Search #3
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "Smart Door Lock" on Walmart.com
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
+**Search Results Link:** [Walmart.com](https://www.walmart.com/search?q=smart+door+lock)
 
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 1. [Smart Door Lock,Blacksmith Biometric Keyless Electronic Door Lock With APP Control,Fingerprint Smart Lock Deadbolt for Home,Apartment,Office and Garages,Black](https://www.walmart.com/ip/Smart-Door-Lock-Blacksmith-Biometric-Keyless-Electronic-Door-Lock-APP-Control-Fingerprint-Smart-Lock-Deadbolt-Home-Apartment-Office-Garages-Black/8062551135?classType=VARIANT&athbdg=L1400&adsRedirect=true) < (link to the product)
 
-![](image1.png)
+![](image4.png)
 
 **(include a picture)**
 
-* Price: $65
+* Price: $49.99
 
-* Vendor: Amazon
+* Vendor: Walmart
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: Experience unparalleled convenience and security with our Blacksmith state of the art keyless entry door lock. Offering an impressive array of unlocking options, including fingerprint recognition, Bluetooth-enabled mobile app control, personalized passcodes, key fobs, mechanical keys.
 
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| "Really like this keypad. The operating instruction were vague, but we figured them out. Recommend to press the %23 sign to light up the keypad, then enter code then %23. Keypad will say, "Door unlocked." To lock the door, press the %23 sign for 3 seconds. It will say, "Door locked." 3 wrong entries will lock you out for 3 mins. The FOB works well, but the fingerprint works sometimes. The app is really good, and it's free, but you can pay for extra features. Awesome keypad for the price." | 1.  The device uses clear communication. (explicit)                              |
+|                                                                                                                                                                                        | 2.  The device is easy to setup and understand. (explicit) |
+|                                                                                                                                                                                        | 3.  The device is accurate over numerous uses. (latent)                               |
 
 ##### Negative Comments
 
