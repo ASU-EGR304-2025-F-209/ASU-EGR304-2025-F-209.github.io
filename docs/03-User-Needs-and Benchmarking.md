@@ -40,13 +40,13 @@ title: User Needs and Benchmarking
 
 ## Search #2
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "door sensor"
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
+**Search Results Link:** [https://www.google.com/search?q=door+sensor&oq=door+sensor&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgcIARAAGIAEMgYIAhBFGEAyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgxMjcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=door+sensor&oq=door+sensor&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgcIARAAGIAEMgYIAhBFGEAyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgxMjcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 ### Selected Products
 
-#### 1. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+#### 1. [Philips Personal Security Window and Door Alarm, 4-Pack, White](https://www.walmart.com/ip/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White/906555021?wmlspartner=wlpa&selectedSellerId=0&wl13=5768&gclsrc=aw.ds&adid=22222222277906555021_117755028669_12420145346&wl0=&wl1=g&wl2=c&wl3=501107745824&wl4=pla-394283752452&wl5=9030087&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=local&wl12=906555021&veh=sem_LIA&gclsrc=aw.ds&gad_source=1&gad_campaignid=12420145346&gbraid=0AAAAADmfBIoHeL4fbRZWeSEgBWhJ2Tyx6&gclid=Cj0KCQjw8p7GBhCjARIsAEhghZ3aKevhMpAPu5QlScz7LOXc8oG_1GC1nvhKRQt-qB6e_N6IoNe5uZ4aAiEMEALw_wcB) < (link to the product)
 
 ![](image1.png)
 
@@ -54,9 +54,15 @@ title: User Needs and Benchmarking
 
 * Price: $65
 
-* Vendor: Amazon
+* Vendor: Walmart
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: These Philips Battery-Operated Window and Door Alarms provide a simple-to-use, cost-effective security solution to protect you and your family. Thanks to reliable magnetic sensors and 120-decibel alarms, a would-be intruder will think twice about entering your home. This set of four user-friendly alarms will provide you with the extra coverage you need. You can also choose between alarm or chime modes with the flip of a switch. When installed and armed, the alarm will activate if the window or door is opened, alerting you and deterring unwanted visitors. The simple, wire-free design of these alarms are perfect for homes, apartments, dorm rooms and offices alike. Use the included double-sided mounting tape to attach them to your window or door of choice within minutes — each alarm is powered by four LR44 button batteries (included). Experience great peace of mind by adding a dependable layer of security to your home with these Philips Battery-Operated Window and Door Alarms!
+Safe and Secure – Ward off would-be intruders with a 120-decibel alarm triggered by a high-quality magnetic sensor, or choose for a chime to sound when windows or doors are opened and closed
+User Friendly – Features an easy-to-use OFF/CHIME/ALARM switch on the side of the alarm to let you choose your preference of alert, comes in a set of four to provide extra coverage for your home
+Easy Install – Experience completely wire and hassle-free mounting with the included double-sided tape, everything you need is included in the box
+Battery Operated – Powered by four long-life LR44 button batteries (included) and features a battery test button and low battery indicator to keep you notified of current power levels
+Peace of Mind – This home security product is designed to fortify your home with a reliable layer of protection, empowering you to live your life free of worry
+LRM3320W/27
 
 ##### Positive Comments
 
