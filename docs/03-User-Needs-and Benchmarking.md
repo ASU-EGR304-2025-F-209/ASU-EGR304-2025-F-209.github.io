@@ -92,7 +92,6 @@ LRM3320W/27
 
 ![](image4.png)
 
-**(include a picture)**
 
 * Price: $49.99
 
