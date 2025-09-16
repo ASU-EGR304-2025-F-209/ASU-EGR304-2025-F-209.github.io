@@ -50,7 +50,6 @@ title: User Needs and Benchmarking
 
 ![<img width="900" height="675" alt="image" src="https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF" />](https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 
-**(include a picture)**
 
 * Price: $14.97
 
