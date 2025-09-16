@@ -128,8 +128,6 @@ LRM3320W/27
 [<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f0c768ce-523b-435a-bf36-745f66697e53" />](https://m.media-amazon.com/images/I/41siPqHKP1L._SY450_.jpg)
 
 
-**(include a picture)**
-
 * Price: $19.99
 
 * Vendor: Amazon
