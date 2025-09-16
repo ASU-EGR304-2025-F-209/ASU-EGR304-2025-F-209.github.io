@@ -175,9 +175,7 @@ I would not recommend Ring hardware or services."  | 3.  Unreliable Ring Service
 
 - [Yale Assure Lock 2 Satin Nickel Smart Wi-Fi and Bluetooth Keypad Electronic Deadbolt Lock](https://www.lowes.com/pd/Yale-Assure-Lock-2-Satin-Nickel-Wi-fi-Compatibility-Bluetooth-Compatibility-Electronic-Deadbolt-Biometric-Lock-Lighted-Keypad/5013786591?cm_mmc=shp-_-c-_-prd-_-hdw-_-bng-_-CRP_SHP_PLA_HDW_Online_C-D-_-5013786591-_-Local-_-0-_-0&msclkid=a2fd803fed8b19d837fce8f73ca6cb85&utm_source=bing&utm_medium=cpc&utm_campaign=CRP_SHP_PLA_HDW_Online_C-D&utm_term=4584894777154002&utm_content=Security&gclid=a2fd803fed8b19d837fce8f73ca6cb85&gclsrc=3p.ds) < (link to the product)
 
-![](image1.png)
-
-**(include a picture)**
+![](image5.png)
 
 * Price: $229
 
