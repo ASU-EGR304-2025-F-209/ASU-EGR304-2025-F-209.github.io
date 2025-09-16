@@ -195,7 +195,7 @@ Requires the Ring Alarm Base Station.
 ## Organized Need Statements
 
 ### First Placement
-[(https://github.com/user-attachments/assets/7a37bd23-fde2-464e-867a-116c34486560)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeeds.jpeg)
+[![UserNeeds](https://github.com/user-attachments/assets/22dd2067-5531-4801-9ad5-227f39ecd84a)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeeds.jpeg)
 
 ### Grouped with categories
 
