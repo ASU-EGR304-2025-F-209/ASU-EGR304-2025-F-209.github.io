@@ -123,7 +123,7 @@ LRM3320W/27
 
 ### Selected Products
 
-#### 5. [Ring Alarm Contact Sensor ]([https://a.co/d/9n1H6go) < (link to the product)
+[Ring Alarm Contact Sensor](https://a.co/d/5jHdzLm) < (link to the product)
 
 
 ![<img width="900" height="675" alt="image" src="https://m.media-amazon.com/images/I/41siPqHKP1L._SX522_.jpg"/>](image1.png)
