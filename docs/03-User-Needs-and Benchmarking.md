@@ -50,7 +50,6 @@ title: User Needs and Benchmarking
 
 ![<img width="900" height="675" alt="image" src="https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF" />](https://i5.walmartimages.com/seo/Philips-Personal-Security-Window-and-Door-Alarm-4-Pack-White_7957e34d-603a-492c-bb71-2d53256898dc.6ea67732ad662e7319b03e86921e874b.jpeg?odnHeight=573&odnWidth=573&odnBg=FFFFFF)
 
-**(include a picture)**
 
 * Price: $14.97
 
@@ -126,10 +125,8 @@ LRM3320W/27
 
 [Ring Alarm Contact Sensor](https://a.co/d/5jHdzLm) < (link to the product)
 
+[<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/f0c768ce-523b-435a-bf36-745f66697e53" />](https://m.media-amazon.com/images/I/41siPqHKP1L._SY450_.jpg)
 
-![<img width="900" height="675" alt="image" src="https://m.media-amazon.com/images/I/41siPqHKP1L._SX522_.jpg"/>](image1.png)
-
-**(include a picture)**
 
 * Price: $19.99
 
