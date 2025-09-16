@@ -169,39 +169,39 @@ I would not recommend Ring hardware or services."  | 3.  Unreliable Ring Service
 
 ## Search #5
 
-**Keywords:** "kid science kit robotics"
+**Keywords:** "intelligent door lock system" on Yahoo.com
 
-**Search Results Link:** [https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2](https://www.amazon.com/s?k=kid+science+kit+robotics&crid=201H95H867ASY&sprefix=kid+science+kit+robotic%2Caps%2C162&ref=nb_sb_noss_2)
+**Search Results Link:** [https://search.yahoo.com/search?p=intelligent+door+lock+system&fr=yfp-t-s&fr2=p%3Afp%2Cm%3Asa%2Cct%3Ahistory%2Ckt%3Anone%2Csa_mk%3A13&mkr=13&fp=1](https://search.yahoo.com/search?p=intelligent+door+lock+system&fr=yfp-t-s&fr2=p%3Afp%2Cm%3Asa%2Cct%3Ahistory%2Ckt%3Anone%2Csa_mk%3A13&mkr=13&fp=1)
 
 ### Selected Products
 
-#### 5. [Tinkering Labs Robotics Engineering Kit](https://www.amazon.com/Tinkering-Labs-Electric-Engineering-Experiments/dp/B01M5GJFQ1/) < (link to the product)
+- [Yale Assure Lock 2 Satin Nickel Smart Wi-Fi and Bluetooth Keypad Electronic Deadbolt Lock](https://www.lowes.com/pd/Yale-Assure-Lock-2-Satin-Nickel-Wi-fi-Compatibility-Bluetooth-Compatibility-Electronic-Deadbolt-Biometric-Lock-Lighted-Keypad/5013786591?cm_mmc=shp-_-c-_-prd-_-hdw-_-bng-_-CRP_SHP_PLA_HDW_Online_C-D-_-5013786591-_-Local-_-0-_-0&msclkid=a2fd803fed8b19d837fce8f73ca6cb85&utm_source=bing&utm_medium=cpc&utm_campaign=CRP_SHP_PLA_HDW_Online_C-D&utm_term=4584894777154002&utm_content=Security&gclid=a2fd803fed8b19d837fce8f73ca6cb85&gclsrc=3p.ds) < (link to the product)
 
 ![](image1.png)
 
 **(include a picture)**
 
-* Price: $65
+* Price: $229
 
-* Vendor: Amazon
+* Vendor: Lowe's
 
-* Description: The kit includes over 50 high quality components and 10 Challenges that inspire kids to invent their own creations. The pieces are a combination of the everyday and the mysterious, perfect for generating creativity, boosting IQ and instilling STEM knowledge.
+* Description: Smart locks with Wi-Fi can hop onto your home’s Wi-Fi network, giving you the power to control access from anywhere with an internet connection. That means you can lock or unlock your door remotely using the Yale Access app on your smartphone, whether you're letting in friends, family, rental guests, or even the dog walker. Yale Wi-Fi smart locks come loaded with perks like real-time notifications, remote access and smooth integration with other smart home platforms. They’re easy to set up, just keep in mind that they can be a bit more battery-draining and might feel the effects of any Wi-Fi hiccups.
 
 ##### Positive Comments
 
 | Voice of the Customer                                                                                                                                                                  | Restated Customer Need                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| "My son just turned 6 and he loves this due to the real tools, real wiring and building to truly make something. It is too advanced for his age to do alone but he will grow into it." | 1.  The kit is perceived as more than a toy (explicit)                              |
-|                                                                                                                                                                                        | 2.  The kit can be used by younger children without parental supervision (explicit) |
-|                                                                                                                                                                                        | 3.  The kit is safe for children of all ages (latent)                               |
+| "I was worried when I saw the owner’s manual of this lock because it is thick! There are templates even! But I watched a few videos (thank God for YouTube) and it seemed pretty straightforward so I took a deep breath and gave it a go. The installation really only took about ten minutes! And the lock works like a charm! I’m still exploring the different features, but so far I’m liking it a lot. I bought this lock so that when I travel I can give the house sitter a temporary code and I can know who’s coming and going and whether the door is locked." | 1.  The device instructions are easy to follow. (explicit)                              |
+|                                                                                                                                                                                        | 2.  The device is easy to setup. (explicit) |
+|                                                                                                                                                                                        | 3.  The device features is easy to fully learn (latent)                               |
 
 ##### Negative Comments
 
 | Voice of the Customer                                                                                                                                                                                                                                                                                                                                                                                | Restated Customer Need                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
-| "I am a STEM teacher and bought a large quantity of these kits and I am disgusted by how easily the motor breaks. 12 years in STEM schools and this product is at the bottom of my list. The ladybug platform, as we call it, needs some reimagining and the materials simply can't handle the wear and tear of a classroom. Sad that I spend my own money on this with so little we got out of it." | 1.  The kit is robust. (explicit)                       |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The moving parts of the kit are reinforced.(latent) |
-|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The kit survives multiple uses (explicit)           |
+| "Invested in 28 Yale Assure 2 locks for enhanced security, but severe battery drain issues across all units have been a colossal letdown. Frequent replacements, lack of low-battery warnings, and unexpected lockouts make these locks a costly and frustrating investment. Managing 28 unreliable units turns promised convenience into a significant headache. Considering alternatives is highly recommended. Customer service has been very unhelpful in getting this resolved." | 1.  The device is able to last multiple uses across a year. (explicit)                       |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 2.  The device is easy to troubleshoot.(latent) |
+|                                                                                                                                                                                                                                                                                                                                                                                                      | 3.  The device displays system status. (explicit)           |
 
 
 
