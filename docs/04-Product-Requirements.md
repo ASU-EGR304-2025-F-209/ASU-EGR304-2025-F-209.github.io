@@ -22,8 +22,10 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 **User Story #1: Matthew**
 Matthew is a 33-year-old new homeowner. He is looking for something to provide some extra security to his home. His new smart door sensor allows him to sleep easy knowing it will alert him to any theives breaking in at night. 
-
 Matthew also likes to travel. His new smart door sensors allow him to know whenever a door is open by alerting him on his phone. 
+
+**User Story #2: Alice**
+Alice is a 27-year-old mother of three boys. She is looking for a device to monitor when her children open the door and leave the house while with the door open. This smart door sensor assists her by alerting when the door has been left open for a while, and when the door is used by her children. This device provides ease for the mother from having to check up on the door whenever it is used.
 
 ## Aspects
 
