@@ -100,7 +100,7 @@ The product design will be based on highlights of the benchmarked products while
 
 ## Open Questions
 
-* Can we improve on failing or self-igniting batteries?
+* What concerns do you have about forgetting to close your door?
 * Can we add intrusion-detection sensors that also meet privacy expectations?
 * Can we allow software customization at different levels (basic vs. advanced user modes)?
 * Can the setup process be simplified to under 15 minutes for a non-technical homeowner?
