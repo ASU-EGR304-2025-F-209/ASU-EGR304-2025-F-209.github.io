@@ -20,10 +20,10 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-**User Story #1: Jenna**
-Jenna is a 33-year-old executive who regularly visits a bar for lunch to blow off some steam. The bar is often loud with people, but it is paramount that she can hold business conversations over the phone there. Then again, she does not want to miss out on the atmosphere and be able to hear the waiters as well. Her new Apple wireless earphones allow her to switch instantly between a mode where she can fully focus on the phone conversation and a mode where the phone call and environmental sound are seamlessly combined. They also allow her to rapidly adjust the volume on the earbuds themselves without having to take out her phone.
+**User Story #1: Matthew**
+Matthew is a 33-year-old new homeowner. He is looking for something to provide some extra security to his home. His new smart door sensor allows him to sleep easy knowing it will alert him to any theives breaking in at night. 
 
-Jenna occasionally visits the bar in the evenings. She is a big fan of the L.A. Lakers, and whenever they play, she streams the live footage through her phone. Her new earbuds allow her to easily switch to hearing everything around her and streaming the match commentary without having to ever take the earbuds out.  She sometimes gets compliments on how stylish the earbuds look on her, and she wouldn’t want to miss out on hearing those either.
+Matthew also likes to travel. His new smart door sensors allow him to know whenever a door is open by alerting him on his phone. 
 
 ## Aspects
 
