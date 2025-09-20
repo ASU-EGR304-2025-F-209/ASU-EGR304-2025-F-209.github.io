@@ -32,7 +32,7 @@ This device provides ease for the mother from having to check up on the door whe
 
 The product design will be based on highlights of the benchmarked products while adhering the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Producr Design**
+1. **Product Design**
       * 1.1 The product shall operate with a motor noise level not exceeding 40 dB. (P2)
       * 1.2 The product shall provide a tamper-resistant locking mechanism compatible with standard residential doors. (P3)
       * The product shall maintain a compact form suitable for standard US, EU, and Asian door frames. (P3)
