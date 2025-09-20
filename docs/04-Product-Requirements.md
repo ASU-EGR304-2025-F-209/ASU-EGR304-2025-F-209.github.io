@@ -29,16 +29,29 @@ Alice is a 27-year-old mother of three boys. She is looking for a device to moni
 
 ## Aspects
 
-The new product design will be based on that of the AirPods with improvements based on the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+The product design will be based on highlights of the benchmarked products while adhering the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
 1. **Producr Design**
-   * 1.1 The product shall be visually easy to distinguish from existing AirPods as well as main competitors Sony WF-1000XM3, Jabra Elite, Amazon Echo Buds, Samsung Galaxy Buds, and Bose SoundSport Free, and Urbanista Stockholm. (P10)
-   * 1.1 The product shall be easy to recognize as an Apple product without needing a logo on its exterior. (P10)
-   * 1.2. The product shall avoid styling elements from our Powerbeats over-ear wireless headphones since those address a different market segment. (P8)
+      * 1.1 The product shall operate with a motor noise level not exceeding 40 dB. (P2)
+      * 1.2 The product shall provide a tamper-resistant locking mechanism compatible with standard residential doors. (P3)
+      * The product shall maintain a compact form suitable for standard US, EU, and Asian door frames. (P3)
   
-1. **Functionality**
-      * 2.1 The product shall incorporate one or more optical proximity sensors to detect the user wearing it. (P10)
-      * 2.2 The product shall offer a dual microphone in each earbud. (P10)
+2. **Functionality**
+      * 2.1 The product shall provide mobile app control on both iOS and Android with secure authentication. (P10)
+      * 2.2 The product shall send real-time alerts for door left open, forced entry attempts, and lock tampering. (P9)
+      * 2.3 The product shall integrate with smart home ecosystems such as Google Home, Alexa, and Apple HomeKit. (P5)
+      * 2.4 The product shall log and store access history including user identity and timestamp. (P2)
+
+3. **Interactivity & User Experience**
+      * 3.1 The product shall provide haptic or audio feedback when locking and unlocking. (P8)
+      * 3.2 The product shall support DIY-friendly installation with clear instructions. (P5)
+      * 3.3 The product shall provide an intuitive mobile app interface with a simple lock/unlock dashboard. (P9)
+      * 3.4 The product shall support multi-language options in the mobile app. (P6)
+
+4. **Customization**
+      * 4.1
+
+
 
 ## Requirement Criteria Specifications
 
