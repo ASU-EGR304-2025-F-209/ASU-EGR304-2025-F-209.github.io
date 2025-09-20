@@ -50,8 +50,22 @@ The product design will be based on highlights of the benchmarked products while
       * 3.4 The product shall support multi-language options in the mobile app. (P6)
 
 4. **Customization**
-      * 4.1
+      * 4.1 The product shall allow replaceable external covers and finishes for aesthetic preferences. (P2)
+      * 4.2 The product shall allow customization of lock/unlock sounds and app themes. (P7)
+      * 4.3 The product shall support optional add-on modules such as a camera or keypad. (P5)
 
+5. **Manufacturing**
+      * 5.1 The product shall be designed to meet a durability standard of at least 100,000 lock/unlock cycles. (P10)
+      * 5.2 The product shall use energy-efficient components that allow a minimum battery life of one year using 4 AA batteries. (P8)
+      * 5.3 The product shall be designed with modular components to allow easy replacement of faulty parts. (P6)
+      * 5.4 The product shall be packaged using environmentally friendly materials. (P1)
+
+6. **Safety**
+      * 6.2 The product shall provide fail-safe operation to unlock in fire or emergency situations if power is cut. (P9)
+      * 6.3 The product shall include finger entrapment and pinch protection in its mechanical design. (P8)
+      * 6.5 The product shall resist brute-force attacks up to at least 1,000 pounds of force. (P6)
+      * 6.6 The product shall provide tamper detection and issue alerts in case of forced entry. (P5)
+      *6.4 The product shall include overheat protection for the motor and PCB. (P7)
 
 
 ## Requirement Criteria Specifications
