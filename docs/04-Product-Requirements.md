@@ -20,11 +20,11 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Use Cases
 
-**User Story #1: Matthew**
+* **User Story #1: Matthew**
 Matthew is a 33-year-old new homeowner. He is looking for something to provide some extra security to his home. His new smart door sensor allows him to sleep easy knowing it will alert him to any theives breaking in at night.<br>
 Matthew also likes to travel. His new smart door sensors allow him to know whenever a door is open by alerting him on his phone. 
 
-**User Story #2: Alice**
+* **User Story #2: Alice**
 Alice is a 27-year-old mother of three boys. She is looking for a device to monitor when her children open the door and leave the house while with the door open. This smart door sensor assists her by alerting when the door has been left open for a while, and when the door is used by her children.<br>
 This device provides ease for the mother from having to check up on the door whenever it is used.
 
@@ -32,7 +32,7 @@ This device provides ease for the mother from having to check up on the door whe
 
 The product design will be based on highlights of the benchmarked products while adhering the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
 
-1. **Product Design**
+1. **Producr Design**
       * 1.1 The product shall operate with a motor noise level not exceeding 40 dB. (P2)
       * 1.2 The product shall provide a tamper-resistant locking mechanism compatible with standard residential doors. (P3)
       * The product shall maintain a compact form suitable for standard US, EU, and Asian door frames. (P3)
@@ -70,8 +70,33 @@ The product design will be based on highlights of the benchmarked products while
 
 ## Requirement Criteria Specifications
 
-* 1.1.1 - Regulate system power from 9 volts to 5 volts
-* 1.1.2 - Provide over-amperage project to not exceed 1.5 amps.
+* 1.1.1 – The motor shall not exceed 40 dB measured at 1 meter distance under normal operation.
+* 1.2.1 – The mechanism shall withstand at least 1,000 lb of direct force without failure.
+* 2.1.1 – The mobile app shall be compatible with iOS 15+ and Android 11+.
+* 2.2.1 – The system shall support push notifications via mobile app.
+* 2.3.1 – The lock shall support API protocols required by Google, Alexa, and Apple ecosystems.
+* 2.4.1 – The log shall store at least 500 access events locally.
+* 3.1.1 – The device shall provide a vibration within 1 second of access.
+* 3.2.1 – The product shall be installable using only a standard screwdriver.
+* 3.2.2 – The product shall include a step-by-step installation guide with diagrams.
+* 3.3.1 – The main dashboard shall allow one-click lock/unlock.
+* 3.4.1 – The app shall support at least English, Spanish, and Mandarin.
+* 4.1.1 – At least three finish options shall be available (e.g., coated aluminum, matte black, stainless steel).
+* 4.2.1 – The app shall provide at least two theme color schemes.
+* 4.3.1 – The product shall include a modular port for expansion modules.
+* 5.1.1 – The locking mechanism shall pass a 100,000-cycle test at room temperature.
+* 5.1.2 – The locking mechanism shall pass a 50,000-cycle test at elevated humidity (RH ≥ 80%).
+* 5.2.1 – The lock shall consume less than 500 µA in standby mode.
+* 5.2.2 – The system shall complete at least 50,000 lock/unlock operations on a single set of batteries.
+* 5.3.1 – The PCB, motor, and sensor assembly shall be separable via connectors.
+* 5.4.1 – Packaging shall use 90% recyclable material by weight.
+* 5.4.2 – Plastic packaging shall be biodegradable or recyclable.
+* 6.2.1 – The lock shall default to an unlocked state if internal power is lost.
+* 6.2.2 – The lock shall provide weeks of prior notice before internal power is lost.
+* 6.3.1 – The gap between moving parts shall not exceed 4 mm to prevent finger trapping.
+* 6.4.2 – The circuit shall use thermal fuses rated at 85°C.
+* 6.5.1 – The mounting hardware shall withstand torque forces up to 100 N·m.
+* 6.6.1 – Tamper detection shall trigger a local alarm and send a remote alert within 5 seconds.
 
 ## Open Questions
 
