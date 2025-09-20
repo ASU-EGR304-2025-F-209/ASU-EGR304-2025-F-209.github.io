@@ -61,11 +61,11 @@ The product design will be based on highlights of the benchmarked products while
       * 5.4 The product shall be packaged using environmentally friendly materials. (P1)
 
 6. **Safety**
-      * 6.2 The product shall provide fail-safe operation to unlock in fire or emergency situations if power is cut. (P9)
-      * 6.3 The product shall include finger entrapment and pinch protection in its mechanical design. (P8)
-      * 6.5 The product shall resist brute-force attacks up to at least 1,000 pounds of force. (P6)
-      * 6.6 The product shall provide tamper detection and issue alerts in case of forced entry. (P5)
-      *6.4 The product shall include overheat protection for the motor and PCB. (P7)
+      * 6.1 The product shall provide fail-safe operation to unlock in fire or emergency situations if power is cut. (P9)
+      * 6.2 The product shall include finger entrapment and pinch protection in its mechanical design. (P8)
+      * 6.3 The product shall resist brute-force attacks up to at least 1,000 pounds of force. (P6)
+      * 6.4 The product shall provide tamper detection and issue alerts in case of forced entry. (P5)
+      * 6.5 The product shall include overheat protection for the motor and PCB. (P7)
 
 
 ## Requirement Criteria Specifications
