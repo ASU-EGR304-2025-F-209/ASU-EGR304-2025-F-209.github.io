@@ -100,5 +100,8 @@ The product design will be based on highlights of the benchmarked products while
 
 ## Open Questions
 
-* Can we move towards a recyclable and repairable product, for example, with ZIF connectors and glue-free assembly?
 * Can we improve on failing or self-igniting batteries?
+* Can we add intrusion-detection sensors that also meet privacy expectations?
+* Can we allow software customization at different levels (basic vs. advanced user modes)?
+* Can the setup process be simplified to under 15 minutes for a non-technical homeowner?
+* Can the app support offline operation (e.g., Bluetooth-only) for users without Wi-Fi?
