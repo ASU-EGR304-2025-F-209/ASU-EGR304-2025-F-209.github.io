@@ -122,7 +122,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 ### Sorting Into Groups
 Add your context and tables
 
-1. Power & Battery Management
+### 1. Power & Battery Management
 - Rechargeable battery
 - Replaceable AA/AAA batteries
 - Solar panel
@@ -133,7 +133,7 @@ Add your context and tables
 - Big battery
 - No battery (passive device)
 
-2. Mounting & Physical Stability
+### 2. Mounting & Physical Stability
 - Double-sided tape
 - Magnetic Device
 - Velcro
@@ -148,7 +148,7 @@ Add your context and tables
 - Magnetic contacts
 - No adhesive (corner placement)
 
-3. Durability & Longevity
+### 3. Durability & Longevity
 - ABS plastic
 - UV-resistant coating
 - Rust-proof magnetic contacts
@@ -167,7 +167,7 @@ Add your context and tables
 - Weighted internal components
 - Branded detailing or subtle logo
 
-4. Installation & Setup Simplicity
+### 4. Installation & Setup Simplicity
 - Quick-start guide
 - Step-by-step video
 - One-button pairing
@@ -187,7 +187,7 @@ Add your context and tables
 - List of known surfaces that work for mounting
 - List of known surfaces/methods that do not let the device mount correctly
 
-5. User Interface & Feedback
+### 5. User Interface & Feedback
 - LED status indicators
 - Multiple colors
 - Soft glow
@@ -210,7 +210,7 @@ Add your context and tables
 - Instructions on packaging
 - Tutorial link
 
-6. Security & System Integration
+### 6. Security & System Integration
 - Siren
 - High-decibel siren
 - Adjustable volume
@@ -224,7 +224,7 @@ Add your context and tables
 - Tamper alert on incorrect code
 - Temporary guest codes
 
-7. Connectivity & Independence
+### 7. Connectivity & Independence
 - Connects to app
 - Connects via WiFi
 - Connects via Bluetooth
@@ -233,13 +233,13 @@ Add your context and tables
 - Wireless link to remote chime
 - Echo-enhanced housing
 
-8. Accuracy
+### 8. Accuracy
 - Gyroscope
 - Magnets
 - App
 
 ### Ranking of Groups
-Power & Battery Management
+### Power & Battery Management
   1. Rechargeable battery
   2. Solar panel
   3. Replaceable AA/AAA batteries
@@ -250,7 +250,7 @@ Power & Battery Management
   8. App battery notifications
   9. No battery (passive device)
 
-Mounting & Physical Stability
+### Mounting & Physical Stability
   1. Metal-reinforced mounting plate
   2. Internal shock-absorbing structure
   3. Slots for screws or nails
@@ -265,7 +265,7 @@ Mounting & Physical Stability
   12. Magnetic contacts
   13. No adhesive (corner placement)
 
-Durability & Longevity
+### Durability & Longevity
   1. Reinforced ABS or polycarbonate housing
   2. Weather/moisture-resistant
   3. Water/corrosion-resistant materials
@@ -284,7 +284,7 @@ Durability & Longevity
   16. Branded detailing or subtle logo
   17. Updates
 
-Installation & Setup Simplicity
+### Installation & Setup Simplicity
   1. Pre-programmed out of box
   2. Quick-start guide
   3. Instructional video (QR code link)
@@ -304,7 +304,7 @@ Installation & Setup Simplicity
   17. List of known surfaces that work for mounting
   18. List of known surfaces/methods that do not let the device mount correctly
 
-User Interface & Feedback
+### User Interface & Feedback
   1. App notifications
   2. LED status indicators 
   1. Multiple colors
@@ -327,7 +327,7 @@ User Interface & Feedback
   13. Picture guide
   14. Website to ask questions
 
-Security & System Integration
+### Security & System Integration
   1. Tamper detection switch
   2. Security code 
   1. App PIN
@@ -341,7 +341,7 @@ Security & System Integration
   6. Adjustable volume
   7. Multi-tone alarm options
 
-Connectivity & Independence
+### Connectivity & Independence
   1. Connects to app
   2. Connects via WiFi
   3. Connects via Bluetooth
@@ -350,7 +350,7 @@ Connectivity & Independence
   6. Connects via Ethernet
   7. Does not connect to phone
 
-Accuracy
+### Accuracy
   1. Gyroscope
   2. Magnets
   3. App
@@ -366,7 +366,7 @@ Accuracy
 
 
 ## Product Concepts
-Concept 1: Solar-Powered Smart Door Sensor
+### Concept 1: Solar-Powered Smart Door Sensor
 Key Features:
 - Solar panel for primary power
 - Rechargeable lithium battery
@@ -382,7 +382,7 @@ Key Features:
 image here
 
 
-Concept 2: Ultra-Simple Magnetic Door Sensor
+### Concept 2: Ultra-Simple Magnetic Door Sensor
 Key Features:
 - Replaceable AAA batteries
 - LED battery indicator
@@ -396,7 +396,7 @@ Key Features:
 image here
 
 
-Concept 3: High-Security Smart Door Sensor
+### Concept 3: High-Security Smart Door Sensor
 Key Features:
 - Big lithium battery
 - Backup battery
