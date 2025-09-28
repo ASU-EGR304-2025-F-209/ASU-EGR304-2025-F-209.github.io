@@ -7,8 +7,7 @@ tags:
 
 ## Intro/overview
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+This page contains our groups' feature ideas along with details describing each feature. As well as seperating those ideas into groups and ranking the ideas within each group. Then we generated concept ideas and modeled each one.
 
 ## Generating Ideas
 
