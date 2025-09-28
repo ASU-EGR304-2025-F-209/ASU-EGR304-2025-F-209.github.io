@@ -243,17 +243,17 @@ Add your context and tables
 
 ### Ranking of Groups
 Power & Battery Management
-&emsp; 1. Rechargeable battery
-&emsp; 2. Solar panel
-&emsp; 3. Replaceable AA/AAA batteries
-&emsp; 4. LED low battery indicator
-&emsp; 5. Backup battery
-&emsp; 6. Big battery
-&emsp; 7. Power bank
-&emsp; 8. App battery notifications
-&emsp; 9. No battery (passive device)
+1. Rechargeable battery
+2. Solar panel
+3. Replaceable AA/AAA batteries
+4. LED low battery indicator
+5. Backup battery
+6. Big battery
+7. Power bank
+8. App battery notifications
+9. No battery (passive device)
 
-2. Mounting & Physical Stability
+Mounting & Physical Stability
   1. Metal-reinforced mounting plate
   2. Internal shock-absorbing structure
   3. Slots for screws or nails
@@ -268,7 +268,7 @@ Power & Battery Management
   12. Magnetic contacts
   13. No adhesive (corner placement)
 
-3. Durability & Longevity
+Durability & Longevity
   1. Reinforced ABS or polycarbonate housing
   2. Weather/moisture-resistant
   3. Water/corrosion-resistant materials
@@ -287,27 +287,27 @@ Power & Battery Management
   16. Branded detailing or subtle logo
   17. Updates
 
-4. Installation & Setup Simplicity
-  1. Pre-programmed out of box
-  2. Quick-start guide
-  3. Instructional video (QR code link)
-  4. One-button pairing
-  5. Simple language instructions
-  6. Troubleshooting section in app
-  7. Troubleshooting section in the manual
-  8. Step-by-step video
-  9. Self-test button
-  10. Audible alert if setup wrong
-  11. Labels on device
-  12. Pre assembled
-  13. Built in one part
-  14. Simple design
-  15. Clear instruction manual
-  16. Error code reference guide
-  17. List of known surfaces that work for mounting
-  18. List of known surfaces/methods that do not let the device mount correctly
+Installation & Setup Simplicity
+     1. Pre-programmed out of box
+     2. Quick-start guide
+     3. Instructional video (QR code link)
+     4. One-button pairing
+     5. Simple language instructions
+     6. Troubleshooting section in app
+     7. Troubleshooting section in the manual
+     8. Step-by-step video
+     9. Self-test button
+     10. Audible alert if setup wrong
+     11. Labels on device
+     12. Pre assembled
+     13. Built in one part
+     14. Simple design
+     15. Clear instruction manual
+     16. Error code reference guide
+     17. List of known surfaces that work for mounting
+     18. List of known surfaces/methods that do not let the device mount correctly
 
-5. User Interface & Feedback
+User Interface & Feedback
   1. App notifications
   2. LED status indicators 
   1. Multiple colors
@@ -330,7 +330,7 @@ Power & Battery Management
   13. Picture guide
   14. Website to ask questions
 
-6. Security & System Integration
+Security & System Integration
   1. Tamper detection switch
   2. Security code 
   1. App PIN
@@ -344,7 +344,7 @@ Power & Battery Management
   6. Adjustable volume
   7. Multi-tone alarm options
 
-7. Connectivity & Independence
+Connectivity & Independence
   1. Connects to app
   2. Connects via WiFi
   3. Connects via Bluetooth
@@ -353,7 +353,7 @@ Power & Battery Management
   6. Connects via Ethernet
   7. Does not connect to phone
 
-8. Accuracy
+Accuracy
   1. Gyroscope
   2. Magnets
   3. App
