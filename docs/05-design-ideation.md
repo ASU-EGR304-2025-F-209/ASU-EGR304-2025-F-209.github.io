@@ -378,8 +378,8 @@ Add your context and tables
 - Connects via WiFi
 - Gyroscope
 
+![IMG_0283](https://github.com/user-attachments/assets/c52c6ff8-b331-4c53-ad23-08b37acc8488)
 
-image here
 
 
 ### Concept 2: Ultra-Simple Magnetic Door Sensor
@@ -392,8 +392,8 @@ image here
 - Volume knob
 - Connects via Bluetooth
 
+![IMG_0284](https://github.com/user-attachments/assets/488c58fa-945b-4699-bed8-fc3db5179ee4)
 
-image here
 
 
 ### Concept 3: High-Security Smart Door Sensor
@@ -406,9 +406,7 @@ image here
 - Keypad
 - Connects via Ethernet
 
-
-image here
-
+![IMG_0285](https://github.com/user-attachments/assets/206a1104-b6af-4da2-b9f2-9d701a72885c)
 
 ## Documenting Our Work
 
