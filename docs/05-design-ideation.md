@@ -243,15 +243,15 @@ Add your context and tables
 
 ### Ranking of Groups
 Power & Battery Management
-1. Rechargeable battery
-2. Solar panel
-3. Replaceable AA/AAA batteries
-4. LED low battery indicator
-5. Backup battery
-6. Big battery
-7. Power bank
-8. App battery notifications
-9. No battery (passive device)
+  1. Rechargeable battery
+  2. Solar panel
+  3. Replaceable AA/AAA batteries
+  4. LED low battery indicator
+  5. Backup battery
+  6. Big battery
+  7. Power bank
+  8. App battery notifications
+  9. No battery (passive device)
 
 Mounting & Physical Stability
   1. Metal-reinforced mounting plate
@@ -288,24 +288,24 @@ Durability & Longevity
   17. Updates
 
 Installation & Setup Simplicity
-     1. Pre-programmed out of box
-     2. Quick-start guide
-     3. Instructional video (QR code link)
-     4. One-button pairing
-     5. Simple language instructions
-     6. Troubleshooting section in app
-     7. Troubleshooting section in the manual
-     8. Step-by-step video
-     9. Self-test button
-     10. Audible alert if setup wrong
-     11. Labels on device
-     12. Pre assembled
-     13. Built in one part
-     14. Simple design
-     15. Clear instruction manual
-     16. Error code reference guide
-     17. List of known surfaces that work for mounting
-     18. List of known surfaces/methods that do not let the device mount correctly
+  1. Pre-programmed out of box
+  2. Quick-start guide
+  3. Instructional video (QR code link)
+  4. One-button pairing
+  5. Simple language instructions
+  6. Troubleshooting section in app
+  7. Troubleshooting section in the manual
+  8. Step-by-step video
+  9. Self-test button
+  10. Audible alert if setup wrong
+  11. Labels on device
+  12. Pre assembled
+  13. Built in one part
+  14. Simple design
+  15. Clear instruction manual
+  16. Error code reference guide
+  17. List of known surfaces that work for mounting
+  18. List of known surfaces/methods that do not let the device mount correctly
 
 User Interface & Feedback
   1. App notifications
