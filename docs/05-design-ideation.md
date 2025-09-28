@@ -117,7 +117,7 @@ cur, aut in adhuc crimina **habebat**: pro.
 | Easy to learn product | Instructions on packaging | Guide on the packaging with information. | 
 | Easy to learn product | Tutorial | Comes with a link to a tutorial for setup and troubleshooting. | 
 
-
+## Sorting Ranking and Grouping
 
 ### Sorting Into Groups
 Add your context and tables
