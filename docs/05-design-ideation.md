@@ -371,10 +371,11 @@ Key Features:
 - Solar panel for primary power
 - Rechargeable lithium battery
 - Backup slot for AA batteries
-- LED low battery indicator
+- LED battery indicator
+- Magnetic device
 - Magnetic contacts
 - One-button pairing
-- Connects via WiFi and Bluetooth
+- Connects via WiFi
 - Gyroscope
 
 
@@ -384,13 +385,12 @@ image here
 2. Ultra-Simple Magnetic Door Sensor
 Key Features:
 - Replaceable AAA batteries
-- LED low battery indicator
+- LED battery indicator
 - Magnetic device
 - No adhesive required (corner placement)
-- LED visual deterrent
-- Basic siren with adjustable volume
+- Basic siren
+- Volume knob
 - Connects via Bluetooth
-- Does not require a phone for basic operation
 
 
 image here
