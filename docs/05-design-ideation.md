@@ -119,9 +119,6 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 
 
-
-## Step Three
-
 ### Sorting Into Groups
 Add your context and tables
 
@@ -366,9 +363,49 @@ Accuracy
 - Mounting feedback sensor: Alerts user if device isn’t mounted securely
 - Customizable alert tones: Upload or select from a library of sounds
 
-## Step Four
 
-Add your different product concepts stuff here
 
-## Step Six (video link)
-Embedded a YouTube video that covers the 
+## Product Concepts
+1. Solar-Powered Smart Door Sensor
+Key Features:
+- Solar panel for primary power
+- Rechargeable lithium battery
+- Backup slot for AA batteries
+- LED low battery indicator
+- Magnetic contacts
+- One-button pairing
+- Connects via WiFi and Bluetooth
+- Gyroscope
+
+
+image here
+
+
+2. Ultra-Simple Magnetic Door Sensor
+Key Features:
+- Replaceable AAA batteries
+- LED low battery indicator
+- Magnetic device
+- No adhesive required (corner placement)
+- LED visual deterrent
+- Basic siren with adjustable volume
+- Connects via Bluetooth
+- Does not require a phone for basic operation
+
+
+image here
+
+
+3. High-Security Smart Door Sensor
+Key Features:
+- Big lithium battery
+- Backup battery
+- Screw slots
+- Built-in screen
+- Speaker on device
+- Keypad
+- Connects via Ethernet
+
+
+image here
+
