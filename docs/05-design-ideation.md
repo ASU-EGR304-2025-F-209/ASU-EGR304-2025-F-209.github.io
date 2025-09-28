@@ -367,7 +367,7 @@ Add your context and tables
 
 ## Product Concepts
 ### Concept 1: Solar-Powered Smart Door Sensor
-Key Features:
+### Key Features:
 - Solar panel for primary power
 - Rechargeable lithium battery
 - Backup slot for AA batteries
@@ -383,7 +383,7 @@ image here
 
 
 ### Concept 2: Ultra-Simple Magnetic Door Sensor
-Key Features:
+### Key Features:
 - Replaceable AAA batteries
 - LED battery indicator
 - Magnetic device
@@ -397,7 +397,7 @@ image here
 
 
 ### Concept 3: High-Security Smart Door Sensor
-Key Features:
+### Key Features:
 - Big lithium battery
 - Backup battery
 - Screw slots
