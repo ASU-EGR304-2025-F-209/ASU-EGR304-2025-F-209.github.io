@@ -238,7 +238,7 @@ Add your context and tables
 - App
 
 ### Ranking of Groups
-### Power & Battery Management
+### 1. Power & Battery Management
   1. Rechargeable battery
   2. Solar panel
   3. Replaceable AA/AAA batteries
@@ -249,7 +249,7 @@ Add your context and tables
   8. App battery notifications
   9. No battery (passive device)
 
-### Mounting & Physical Stability
+### 2. Mounting & Physical Stability
   1. Metal-reinforced mounting plate
   2. Internal shock-absorbing structure
   3. Slots for screws or nails
@@ -264,7 +264,7 @@ Add your context and tables
   12. Magnetic contacts
   13. No adhesive (corner placement)
 
-### Durability & Longevity
+### 3. Durability & Longevity
   1. Reinforced ABS or polycarbonate housing
   2. Weather/moisture-resistant
   3. Water/corrosion-resistant materials
@@ -283,7 +283,7 @@ Add your context and tables
   16. Branded detailing or subtle logo
   17. Updates
 
-### Installation & Setup Simplicity
+### 4. Installation & Setup Simplicity
   1. Pre-programmed out of box
   2. Quick-start guide
   3. Instructional video (QR code link)
@@ -303,7 +303,7 @@ Add your context and tables
   17. List of known surfaces that work for mounting
   18. List of known surfaces/methods that do not let the device mount correctly
 
-### User Interface & Feedback
+### 5. User Interface & Feedback
   1. App notifications
   2. LED status indicators 
   1. Multiple colors
@@ -326,7 +326,7 @@ Add your context and tables
   13. Picture guide
   14. Website to ask questions
 
-### Security & System Integration
+### 6. Security & System Integration
   1. Tamper detection switch
   2. Security code 
   1. App PIN
@@ -340,7 +340,7 @@ Add your context and tables
   6. Adjustable volume
   7. Multi-tone alarm options
 
-### Connectivity & Independence
+### 7. Connectivity & Independence
   1. Connects to app
   2. Connects via WiFi
   3. Connects via Bluetooth
@@ -349,7 +349,7 @@ Add your context and tables
   6. Connects via Ethernet
   7. Does not connect to phone
 
-### Accuracy
+### 8. Accuracy
   1. Gyroscope
   2. Magnets
   3. App
@@ -410,6 +410,6 @@ Add your context and tables
 
 ## Documenting Our Work
 
-stuff here not done yet
+
 
 
