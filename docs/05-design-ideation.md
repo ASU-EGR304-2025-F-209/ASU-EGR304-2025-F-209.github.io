@@ -367,16 +367,16 @@ Accuracy
 
 ## Product Concepts
 1. Solar-Powered Smart Door Sensor
-Key Features:
-- Solar panel for primary power
-- Rechargeable lithium battery
-- Backup slot for AA batteries
-- LED battery indicator
-- Magnetic device
-- Magnetic contacts
-- One-button pairing
-- Connects via WiFi
-- Gyroscope
+  Key Features:
+  - Solar panel for primary power
+  - Rechargeable lithium battery
+  - Backup slot for AA batteries
+  - LED battery indicator
+  - Magnetic device
+  - Magnetic contacts
+  - One-button pairing
+  - Connects via WiFi
+  - Gyroscope
 
 
 image here
