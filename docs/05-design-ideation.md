@@ -122,7 +122,249 @@ cur, aut in adhuc crimina **habebat**: pro.
 
 ## Step Three
 
+### Sorting Into Groups
 Add your context and tables
+
+1. Power & Battery Management
+- Rechargeable battery
+- Replaceable AA/AAA batteries
+- Solar panel
+- LED low battery indicator
+- App battery notifications
+- Backup battery
+- Power bank
+- Big battery
+- No battery (passive device)
+
+2. Mounting & Physical Stability
+- Double-sided tape
+- Magnetic Device
+- Velcro
+- Command strips
+- Epoxy
+- Tight-fit casing with locking clips
+- Metal-reinforced mounting plate
+- Secure mounting system
+- Internal shock-absorbing structure
+- Slots for screws or nails
+- Adhesive
+- Magnetic contacts
+- No adhesive (corner placement)
+
+3. Durability & Longevity
+- ABS plastic
+- UV-resistant coating
+- Rust-proof magnetic contacts
+- Wide operating temperature range
+- Weather/moisture-resistant
+- High-quality reed switch
+- Water/corrosion-resistant materials
+- Energy-efficient circuitry
+- Lithium battery
+- Updates
+- Strong Materials
+- Rubber edges
+- Reinforced ABS or polycarbonate housing
+- Smooth matte or satin finish casing
+- Tight, seamless housing design
+- Weighted internal components
+- Branded detailing or subtle logo
+
+4. Installation & Setup Simplicity
+- Quick-start guide
+- Step-by-step video
+- One-button pairing
+- Pre-programmed out of box
+- Instructional video (QR code link)
+- Simple language instructions
+- Troubleshooting section in the manual
+- Troubleshooting section in app
+- Audible alert if setup wrong
+- Error code reference guide
+- Labels on device
+- Self-test button
+- Clear instruction manual
+- Pre assembled
+- Simple design
+- Built in one part
+- List of known surfaces that work for mounting
+- List of known surfaces/methods that do not let the device mount correctly
+
+5. User Interface & Feedback
+- LED status indicators
+- Multiple colors
+- Soft glow
+- LED visual deterrent
+- Speaker on device
+- Built-in screen
+- App notifications
+- Status in app
+- Adjustable volume settings
+- Volume control
+- Buttons
+- Knob
+- App
+- Voice
+- Lever
+- Picture guide
+- Manual
+- Videos
+- Website to ask questions
+- Instructions on packaging
+- Tutorial link
+
+6. Security & System Integration
+- Siren
+- High-decibel siren
+- Adjustable volume
+- Tamper detection switch
+- Multi-tone alarm options
+- Integration with existing security system
+- Security code
+- Keypad
+- App PIN
+- Two-step disarm
+- Tamper alert on incorrect code
+- Temporary guest codes
+
+7. Connectivity & Independence
+- Connects to app
+- Connects via WiFi
+- Connects via Bluetooth
+- Connects via Ethernet
+- Does not connect to phone
+- Wireless link to remote chime
+- Echo-enhanced housing
+
+8. Accuracy
+- Gyroscope
+- Magnets
+- App
+
+### Ranking of Groups
+1. Power & Battery Management
+  1. Rechargeable battery
+  2. Solar panel
+  3. Replaceable AA/AAA batteries
+  4. LED low battery indicator
+  5. Backup battery
+  6. Big battery
+  7. Power bank
+  8. App battery notifications
+  9. No battery (passive device)
+
+2. Mounting & Physical Stability
+  1. Metal-reinforced mounting plate
+  2. Internal shock-absorbing structure
+  3. Slots for screws or nails
+  4. Adhesive
+  5. Magnetic Device
+  6. Double-sided tape
+  7. Velcro
+  8. Command strips
+  9. Epoxy
+  10. Tight-fit casing with locking clips
+  11. Secure mounting system
+  12. Magnetic contacts
+  13. No adhesive (corner placement)
+
+3. Durability & Longevity
+  1. Reinforced ABS or polycarbonate housing
+  2. Weather/moisture-resistant
+  3. Water/corrosion-resistant materials
+  4. Rubber edges
+  5. Tight, seamless housing design
+  6. Strong Materials
+  7. Rust-proof magnetic contacts
+  8. UV-resistant coating
+  9. ABS plastic
+  10. Wide operating temperature range
+  11. High-quality reed switch
+  12. Energy-efficient circuitry
+  13. Lithium battery
+  14. Weighted internal components
+  15. Smooth matte or satin finish casing
+  16. Branded detailing or subtle logo
+  17. Updates
+
+4. Installation & Setup Simplicity
+  1. Pre-programmed out of box
+  2. Quick-start guide
+  3. Instructional video (QR code link)
+  4. One-button pairing
+  5. Simple language instructions
+  6. Troubleshooting section in app
+  7. Troubleshooting section in the manual
+  8. Step-by-step video
+  9. Self-test button
+  10. Audible alert if setup wrong
+  11. Labels on device
+  12. Pre assembled
+  13. Built in one part
+  14. Simple design
+  15. Clear instruction manual
+  16. Error code reference guide
+  17. List of known surfaces that work for mounting
+  18. List of known surfaces/methods that do not let the device mount correctly
+
+5. User Interface & Feedback
+  1. App notifications
+  2. LED status indicators 
+  1. Multiple colors
+  2. Soft glow
+  3. Status in app
+  4. Built-in screen
+  5. Speaker on device
+  6. Volume control 
+  1. Buttons
+  2. App
+  3. Voice
+  4. Knob
+  5. Lever
+  7. Adjustable volume settings
+  8. LED visual deterrent
+  9. Videos
+  10. Tutorial link
+  11. Instructions on packaging
+  12. Manual
+  13. Picture guide
+  14. Website to ask questions
+
+6. Security & System Integration
+  1. Tamper detection switch
+  2. Security code 
+  1. App PIN
+  2. Two-step disarm
+  3. Tamper alert on incorrect code
+  4. Keypad
+  5. Temporary guest codes
+  3. Integration with existing security system
+  4. High-decibel siren
+  5. Siren
+  6. Adjustable volume
+  7. Multi-tone alarm options
+
+7. Connectivity & Independence
+  1. Connects to app
+  2. Connects via WiFi
+  3. Connects via Bluetooth
+  4. Wireless link to remote chime
+  5. Echo-enhanced housing
+  6. Connects via Ethernet
+  7. Does not connect to phone
+
+8. Accuracy
+  1. Gyroscope
+  2. Magnets
+  3. App
+
+### New Feature Ideas
+- Smart battery optimization mode: Automatically adjusts power usage based on activity and environment
+- Battery health diagnostics in app: Predicts battery lifespan and alerts for replacement
+- Hybrid power input: Accepts solar, USB-C, or AA/AAA interchangeably
+- Emergency power reserve: A small capacitor or backup cell that powers critical alerts even after full battery drain
+- Mounting feedback sensor: Alerts user if device isn’t mounted securely
+- Customizable alert tones: Upload or select from a library of sounds
 
 ## Step Four
 
