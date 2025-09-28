@@ -242,16 +242,16 @@ Add your context and tables
 - App
 
 ### Ranking of Groups
-1. Power & Battery Management
-  1. Rechargeable battery
-  2. Solar panel
-  3. Replaceable AA/AAA batteries
-  4. LED low battery indicator
-  5. Backup battery
-  6. Big battery
-  7. Power bank
-  8. App battery notifications
-  9. No battery (passive device)
+Power & Battery Management
+&emsp; 1. Rechargeable battery
+&emsp; 2. Solar panel
+&emsp; 3. Replaceable AA/AAA batteries
+&emsp; 4. LED low battery indicator
+&emsp; 5. Backup battery
+&emsp; 6. Big battery
+&emsp; 7. Power bank
+&emsp; 8. App battery notifications
+&emsp; 9. No battery (passive device)
 
 2. Mounting & Physical Stability
   1. Metal-reinforced mounting plate
