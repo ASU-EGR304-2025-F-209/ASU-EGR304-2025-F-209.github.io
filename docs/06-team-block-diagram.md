@@ -4,9 +4,7 @@ title: Team Block Diagram
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+Team 209 **_Door Sensor System_** block diagram
 
 ## Research Question
 
@@ -18,12 +16,8 @@ _Italic Text_
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
+![dead bug circuit](Block Diagram.jpeg){style width:"350" height:"300;"}
+**Figure 2:** Initial Block Diagram of Member Components.
 
 
 ## Results
