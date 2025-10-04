@@ -16,7 +16,7 @@ Team 209 **_Door Sensor System_** block diagram
 
 ![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
 
-![dead bug circuit](Block Diagram.jpeg){style width:"350" height:"300;"}
+![Block Diagram](Block_Diagram.jpg){style width:"350" height:"300;"}
 **Figure 2:** Initial Block Diagram of Member Components.
 
 
