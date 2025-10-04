@@ -14,8 +14,7 @@ Team 209 **_Door Sensor System_** block diagram
 
 ## Images
 
-![Team 209 EGR 304 Block Diagram](https://github.com/user-attachments/assets/2ca4e385-a718-407c-a20c-40343edf80fc)
-
+![Team 209 EGR 304 Block Diagram (1)](https://github.com/user-attachments/assets/530dfb3e-f683-41d0-a804-2736c20473fd)
 **Figure 1:** Initial Block Diagram of Member Components.
 
 
