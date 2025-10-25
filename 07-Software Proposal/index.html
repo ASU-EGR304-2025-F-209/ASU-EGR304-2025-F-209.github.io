@@ -848,9 +848,7 @@
   <h1>Software Proposal</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p><strong>Bold Text</strong>
-<em>Italic Text</em>
-<strong><em>Bold and Italic Text</em></strong></p>
+<p>The door controller firmware operates as a finite-state machine (FSM) which runs inside a cooperative main loop that follows this sequence: Read Inputs → Update State → Set Outputs. The system starts its operation by setting hardware registers to their initial values and clearing all software variables and establishing communication links between MCUs through UART and I²C interfaces and then it enters State 001 (Closed). The system checks debounced sensor inputs from magnetic reed/limit switches and distance/UART and current/thermal flags and user override buttons during each cycle. The Update State routine checks transition predicates after which Set Outputs determines motor driver and indicator output values based on the current state. The design structure produces reliable operation while making testing easier and blocking any potential output irregularities.</p>
 <h2 id="research-question">Research Question</h2>
 <ul>
 <li>Bullet Point 1</li>
@@ -859,10 +857,6 @@
 </ul>
 <h2 id="images">Images</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../StateMachineDiagram.png" data-desc-position="bottom"><img alt="image caption" src="../StateMachineDiagram.png"></a></p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="Image01.jpg" data-desc-position="bottom"><img alt="dead bug circuit" height:_300_="height:&quot;300;&quot;" src="Image01.jpg" style="style" width:_350_="width:&quot;350&quot;"></a>
-<strong>Figure 2:</strong> Early PCB working design</p>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="ImageShowcase.png" data-desc-position="bottom"><img alt="showcase" src="ImageShowcase.png"></a>
-<strong>Figure 3:</strong> Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.</p>
 <h2 id="results">Results</h2>
 <ol>
 <li>Numbered Point 1</li>
