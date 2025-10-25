@@ -16,7 +16,7 @@ _Italic Text_
 
 ## Images
 
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
+![image caption](StateMachineDiagram.png)
 
 ![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
 **Figure 2:** Early PCB working design
