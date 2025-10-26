@@ -15,4 +15,4 @@ From the Team Goals which can be reviewed in ["Appendix: Team Organization"](htt
 
 From the details of the product in the team intoduction which can be located in ["Home: Team Introduction"](https://asu-egr304-2025-f-209.github.io/#team-introduction) the team's mission statement formed to be:
 
- > "Our mission is to design and deliver a seamless, implantable language learning and translation device that allows users to communicate effortlessly across languages. We strive to combine innovation, reliability, and usability with  teamwork to create a product that expands human connection and understanding."
+ > "Our mission is to design and deliver a seamless, electronic door sensor that automatically locks the door after you close it. We strive to combine innovation, reliability, and usability with teamwork to create a product that enhances how secure you feel in your home."
