@@ -6,31 +6,10 @@ title: Team Block Diagram
 
 Team 209 **_Door Sensor System_** block diagram
 
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-
 ## Images
 
 ![Team 209 Block Diagram](https://github.com/user-attachments/assets/2a28f3db-b05c-4d11-b9c8-1d77bbe881f2)
 **Figure 1:** Initial Block Diagram of Member Components.
 
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
 ## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
-
+The door sensor system has a 8 button keypad to control volume, and other settings. It senses whether a door is closed or not with the ultrasonic sensor. When the door is closed the motor engages to lock the door. If a code is not entered when opening the door an alarm is triggered.
