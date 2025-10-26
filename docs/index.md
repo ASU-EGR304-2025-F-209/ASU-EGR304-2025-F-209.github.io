@@ -5,7 +5,7 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Chat-Link<br>
+<font size="8">Auto-Lock Door Sensor<br>
 <font size="5">Team 209<br>
 **Submission: September, 04, 2025**<br>
 Fall 2025<br>
