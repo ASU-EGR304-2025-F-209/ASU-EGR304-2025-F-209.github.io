@@ -18,7 +18,7 @@ Professor Kevin Nichols<br>
 
 ## Team Introduction
 
->  Team 209 is a collaborative engineering group dedicated to pushing the boundaries of human communication through innovative technology. We aim to design and build an electronic door sensor that automatically locks the door after you close it. This device will provide convenience and security by letting you know your house is safely locked when you leave.<br> 
+>  Team 209 is a collaborative engineering group dedicated to pushing the boundaries of home security through innovative technology. We aim to design and build an electronic door sensor that automatically locks the door after you close it. This device will provide convenience and security by letting you know your house is safely locked when you leave.<br> 
 > Through this project, we seek not only to create a functional and reliable prototype but also to develop as a cohesive team, applying engineering practices and innovative thinking, to deliver a product with real-world impact.
 
 
