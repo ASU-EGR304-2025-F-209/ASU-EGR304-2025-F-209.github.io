@@ -13,6 +13,6 @@ From the Team Goals which can be reviewed in ["Appendix: Team Organization"](htt
 
 ## Product Mission Statement
 
-From the details of the product in the team intoduction which can be located in ["Home: Team Introduction"](https://asu-egr304-2025-f-209.github.io/#team-introduction) the team's mission statement formed to be:
+From the details of the product in the team introduction which can be located in ["Home: Team Introduction"](https://asu-egr304-2025-f-209.github.io/#team-introduction) the team's mission statement formed to be:
 
- > "Our mission is to design and deliver a seamless, electronic door sensor that automatically locks the door after you close it. We strive to combine innovation, reliability, and usability with teamwork to create a product that enhances how secure you feel in your home."
+ > "Our mission is to design and deliver a lightweight and portable electronic door sensor that automatically locks the door and provides alarm warnings to ensure security. We strive to combine innovation and reliability with teamwork to create a product that enhances how secure you wherever you go."
