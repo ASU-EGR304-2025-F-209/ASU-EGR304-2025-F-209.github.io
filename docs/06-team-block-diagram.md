@@ -9,7 +9,7 @@ A block schematic of how the individual sub-systems are expected to be connected
 
 ## Images
 
-![Team 209 Block Diagram](https://github.com/user-attachments/assets/2a28f3db-b05c-4d11-b9c8-1d77bbe881f2)
+![Team 209 Block Diagram](TeamBlockDiagram.png)
 **Figure 1:** Initial Block Diagram of Member Components.
 
 ## Decision Making Process
