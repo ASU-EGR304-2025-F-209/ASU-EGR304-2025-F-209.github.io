@@ -52,23 +52,16 @@ The Alarm system is enabled as soon as the Motor subsystem's internal timer fini
 
 **Alarm State Semantics**
 
-- nState 001 (Closed, Idle): The alarm subsystem is idle; no components are running.
+- State 001 (Closed, Idle): The alarm subsystem is idle; no components are running.
 
 - State 002 (Open/Unlocked): The timer from the motor subsystem sends a signal to the alarm subsystem. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning.
 
 - State 003 (Alarm Switch): This mode allows the user to open the door for extended periods of time when hauling a load through or for other reasons. The switch is toggled, and this disables all output to the speaker, allowing for quiet use. The warning LED is still turned on to serve as an indicator for the open door
 
 
-
-### Determinism & Safety
-* The system implements mechanical input debouncing with hysteresis to stop motor oscillations caused by chattering.
-* The system will exit State 002 through watchdog and motion timeout mechanisms when the set limits are not achieved.
-* The system performs a safe shutdown when it detects any obstructions through current and thermal monitoring systems.
-* The system enables motor operation only after it detects valid sensor data and state verification during startup.
-
-## Conclusions and Future Work
+## Conclusions
+The decision process of the software sequence follows the same pattern as when making the block diagram. The team put together a sequence of processes to ensure feasibility of a working prototype, while using simple components and limited knowledge of such field.
 
 
-## References
 
 
