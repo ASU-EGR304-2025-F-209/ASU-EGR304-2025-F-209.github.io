@@ -824,7 +824,7 @@
   <h1>Software Proposal</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>The door controller firmware operates as a finite-state machine (FSM) which runs inside a cooperative main loop that follows this sequence: Read Inputs → Update State → Set Outputs. The system starts its operation by setting hardware registers to their initial values and clearing all software variables and establishing communication links between MCUs through UART and I²C interfaces and then it enters State 001 (Closed). The system checks debounced sensor inputs from magnetic reed/limit switches and distance/UART and current/thermal flags and user override buttons during each cycle. The Update State routine checks transition predicates after which Set Outputs determines motor driver and indicator output values based on the current state. The design structure produces reliable operation while making testing easier and blocking any potential output irregularities.</p>
+<p>The Smart Door Sensor Software is designed to coordinate multiple subsystems that work together to manage door locking, unlocking, and safety monitoring. It initializes hardware registers and establishes communication between microcontrollers at startup. The system operates through simultaneous processing loops that handle tasks such as distance sensing, user input, motor control, and alarms, ensuring reliable and automated door operation.</p>
 <h2 id="images">Images</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../StateMachineDiagram.png" data-desc-position="bottom"><img alt="image caption" src="../StateMachineDiagram.png"></a></p>
 <h2 id="logic-flow">Logic Flow</h2>
