@@ -40,10 +40,7 @@ The motor system is initialized on State 001. It receives a signal from the “n
 
 |From |Condition |to|Immediate action|
 |-----------|--------|--------|---------|
-|001|Unlock request| 002|1.Unlock Sequence
-||||2. Enable H-bridge
-||||3. Start motor
-||||4. Turn on LED|
+|001|Unlock request| 002|1.Unlock Sequence <br> 2. Enable H-bridge <br >3. Start motor <br> 4. Turn on LED|
 |002|Open limit reached |003|1. Disable motor 
 ||||2. Start auto-close timer (if enabled)|
 |003|Lock Request|002|1. Lock Sequence|
