@@ -13,7 +13,7 @@ This page contains our groups' feature ideas along with details describing each 
 
 
 
-|                   requirement / need |             feature              | detail                                                                      |
+|                   Requirement / Need |             Feature              | Detail                                                                      |
 | -----------------------------------: | :------------------------------: | --------------------------------------------------------------------------- |
 | Sufficient battery life | Rechargeable Battery | Holds charge for 10+ hours of continuous use. |
 | Sufficient battery life | Replaceable AA/AAA Batteries | Allows quick swap when the charge runs out. |
