@@ -39,14 +39,14 @@ State 003 (Open, Idle/Unlocked): The motor stays disabled while the status LED s
 
 |From |Condition |to|Immediate action|
 |-----------|--------|--------|---------|
-|001|Unlock request| 002|Unlock
-|Enable H-bridge
-Start motor
+|001|Unlock request| 002|Unlock<br>
+Enable H-bridge<br>
+Start motor<br>
 Turn on LED|
 |002|Open limit reached |003|Disable motor Start auto-close timer (if enabled)|
-|003|Lock Request|002|Reverse H-Bridge
+|003|Lock Request|002|Reverse H-Bridge<br>
 Start Motor|
-|002|Close Limit Reached|001|Disable Motor
+|002|Close Limit Reached|001|Disable Motor<br>
 Turn off LED|
 
 
