@@ -4,7 +4,7 @@ title: Team Block Diagram
 
 ## Introduction
 
-Team 209 **_Door Sensor System_** block diagram.
+Team 209 **_Smart Door Sensor System_** block diagram.
 A block schematic of how the individual sub-systems are expected to be connected to individual components and between each other to create a working device.
 
 ## Images
