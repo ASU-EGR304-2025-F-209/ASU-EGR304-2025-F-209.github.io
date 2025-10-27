@@ -8,7 +8,7 @@ title: User Needs and Benchmarking
 
 **Keywords:** "smart door sensor" on Google.com
 
-**Search Results Link:** [https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1VDKB_enUS1093US1093&sxsrf=AE3TifMkpY1gexsF5ayPDJEhy27Zu6m1mQ:1757987142256&q=smart+door+sensor&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcAutntzzMkpzL1o5CSBDD8I2LFmZthekWYMSoJkRUd-qkF-YfrLLnbTB66EUfmOKya3Ca_s42egkD0HBUwwnnRIONWNCg&ved=1t:200715&ictx=111&biw=1707&bih=772&dpr=1.13](https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1VDKB_enUS1093US1093&sxsrf=AE3TifMkpY1gexsF5ayPDJEhy27Zu6m1mQ:1757987142256&q=smart+door+sensor&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcAutntzzMkpzL1o5CSBDD8I2LFmZthekWYMSoJkRUd-qkF-YfrLLnbTB66EUfmOKya3Ca_s42egkD0HBUwwnnRIONWNCg&ved=1t:200715&ictx=111&biw=1707&bih=772&dpr=1.13)
+**Search Results Link:** [smart door sensor](https://www.google.com/search?sca_esv=cdd4458fa27f824d&rlz=1C1VDKB_enUS1093US1093&sxsrf=AE3TifMkpY1gexsF5ayPDJEhy27Zu6m1mQ:1757987142256&q=smart+door+sensor&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeioyp3OhN11EY0n5qfq-zEMZldv_eRjZ2XLYc5GnVnME7glWodDcaQwvGYJtospyF4hao4VocMoniUVvlzzwRcAutntzzMkpzL1o5CSBDD8I2LFmZthekWYMSoJkRUd-qkF-YfrLLnbTB66EUfmOKya3Ca_s42egkD0HBUwwnnRIONWNCg&ved=1t:200715&ictx=111&biw=1707&bih=772&dpr=1.13)
 
 ### Selected Products
 
@@ -42,7 +42,7 @@ title: User Needs and Benchmarking
 
 **Keywords:** "door sensor"
 
-**Search Results Link:** [https://www.google.com/search?q=door+sensor&oq=door+sensor&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgcIARAAGIAEMgYIAhBFGEAyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgxMjcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8](https://www.google.com/search?q=door+sensor&oq=door+sensor&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgcIARAAGIAEMgYIAhBFGEAyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgxMjcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+**Search Results Link:** [door sensor](https://www.google.com/search?q=door+sensor&oq=door+sensor&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgcIARAAGIAEMgYIAhBFGEAyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPTIGCAYQRRg8MgYIBxBFGDzSAQgxMjcwajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 
 ### Selected Products
 
