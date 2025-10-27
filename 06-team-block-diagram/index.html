@@ -553,9 +553,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
+  <a href="#decision-making-process" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusions and Future Work
+      Decision Making Process
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#product-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Requirements
     </span>
   </a>
   
@@ -688,9 +697,18 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#conclusions-and-future-work" class="md-nav__link">
+  <a href="#decision-making-process" class="md-nav__link">
     <span class="md-ellipsis">
-      Conclusions and Future Work
+      Decision Making Process
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#product-requirements" class="md-nav__link">
+    <span class="md-ellipsis">
+      Product Requirements
     </span>
   </a>
   
@@ -722,12 +740,15 @@
   <h1>Team Block Diagram</h1>
 
 <h2 id="introduction">Introduction</h2>
-<p>Team 209 <strong><em>Door Sensor System</em></strong> block diagram</p>
+<p>Team 209 <strong><em>Door Sensor System</em></strong> block diagram.
+A block schematic of how the individual sub-systems are expected to be connected to individual components and between each other to create a working device.</p>
 <h2 id="images">Images</h2>
 <p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="https://github.com/user-attachments/assets/2a28f3db-b05c-4d11-b9c8-1d77bbe881f2" data-desc-position="bottom"><img alt="Team 209 Block Diagram" src="https://github.com/user-attachments/assets/2a28f3db-b05c-4d11-b9c8-1d77bbe881f2"></a>
 <strong>Figure 1:</strong> Initial Block Diagram of Member Components.</p>
-<h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
-<p>The door sensor system has a 8 button keypad to control volume, and other settings. It senses whether a door is closed or not with the ultrasonic sensor. When the door is closed the motor engages to lock the door. If a code is not entered when opening the door an alarm is triggered.</p>
+<h2 id="decision-making-process">Decision Making Process</h2>
+<p>The door sensor system block diagram reflects how the team structured the processes that run between the sub-systems and components, after reviewing each sub-system against the product and course requirements. After selecting the components in each sub-system, we designed how the serial communication is expected to flow between them, and which of the systems needs to send an output and receive and input from the others. We hence settled on a central node at the ultrasonic sensor which only sends out values of the distance, and interconnected branches which share information and logic between themselves.</p>
+<h2 id="product-requirements">Product Requirements</h2>
+<p>The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor. It has components and systems capable of both sensing and actuation that adapt communication between boards to ensure security.</p>
 
 
 
