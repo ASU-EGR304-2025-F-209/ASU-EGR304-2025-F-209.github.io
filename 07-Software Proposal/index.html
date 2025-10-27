@@ -903,49 +903,25 @@ If correct, the Pushbutton subsystem sends a signal to the motor subsystem; else
 <td>001</td>
 <td>Unlock request</td>
 <td>002</td>
-<td>1.Unlock Sequence <br> 2. Enable H-bridge <br>3. Start motor <br> 4. Turn on LED</td>
+<td>1.Unlock Sequence <br> 2.Enable H-bridge <br>3.Start motor <br> 4.Turn on LED</td>
 </tr>
 <tr>
 <td>002</td>
 <td>Open limit reached</td>
 <td>003</td>
-<td>1. Disable motor</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2. Start auto-close timer (if enabled)</td>
+<td>1.Disable motor <br>2.Start auto-close timer (if enabled)</td>
 </tr>
 <tr>
 <td>003</td>
 <td>Lock Request</td>
 <td>002</td>
-<td>1. Lock Sequence</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2. Reverse H-Bridge</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>3. Start Motor</td>
+<td>1.Lock Sequence<br> 2.Reverse H-Bridge <br> 3.Start Motor</td>
 </tr>
 <tr>
 <td>002</td>
 <td>Close Limit Reached</td>
 <td>001</td>
-<td>1. Disable Motor</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2. Turn off LED</td>
+<td>1. Disable Motor <br> 2.Turn off LED</td>
 </tr>
 </tbody>
 </table>
