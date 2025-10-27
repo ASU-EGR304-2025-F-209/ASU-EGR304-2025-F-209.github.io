@@ -869,16 +869,26 @@ The system starts its operation by setting hardware registers to their initial v
 <h3 id="ultrasonic-sensor-subsystem">UltraSonic Sensor Subsystem</h3>
 <p>The Ultrasonic Sensor Subsystem initializes and runs throughout the device’s power-on time. It repeatedly sends a distance value, converted from an analog reading from the sensor to a range of values by the UART module in the MCU, to the other MCUs in the System</p>
 <h3 id="pushbutton-subsystem">Pushbutton Subsystem</h3>
-<p>The Unlock Sequence is the first loop that follows in the flow of operations. It works using a series of push buttons that act as a number pad that enables the user to lock and unlock the door.
-The pushbuttons, all connected to the MCU, draw a high value when pushed down. This is mapped to a character that is stored in the memory. 
-The MCU compares the sequence of characters entered against a previously stored array of characters, either from the manufacturer or during the first startup, to check if the “Password” is correct. 
-If correct, the Pushbutton subsystem sends a signal to the motor subsystem; else, a reinput is needed for unlock.</p>
+<ul>
+<li>The Unlock Sequence is the first loop that follows in the flow of operations. It works using a series of push buttons that act as a number pad that enables the user to lock and unlock the door.</li>
+<li>The pushbuttons, all connected to the MCU, draw a high value when pushed down. This is mapped to a character that is stored in the memory. </li>
+<li>The MCU compares the sequence of characters entered against a previously stored array of characters, either from the manufacturer or during the first startup, to check if the “Password” is correct. 
+If correct, the Pushbutton subsystem sends a signal to the motor subsystem; else, a reinput is needed for unlock.</li>
+</ul>
 <h3 id="motor-subsystem">Motor Subsystem</h3>
 <p>The motor system is initialized on State 001. It receives a signal from the “numberpad” and changes states depending on either a locking or an unlocking sequence.</p>
-<p><strong>Motor State Semantics</strong>
-State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."</p>
+<p><strong>Motor State Semantics</strong></p>
+<ul>
+<li>
+<p>State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."</p>
+</li>
+<li>
 <p>State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation.</p>
+</li>
+<li>
 <p>State 003 (Open, Idle/Unlocked): The motor stays disabled while the status LED shows "open" and the auto-close timer operates in the background.</p>
+</li>
+</ul>
 <table>
 <thead>
 <tr>
@@ -893,16 +903,16 @@ State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remai
 <td>001</td>
 <td>Unlock request</td>
 <td>002</td>
-<td>Unlock</td>
+<td>Unlock<br></td>
 </tr>
 <tr>
-<td>Enable H-bridge</td>
+<td>Enable H-bridge<br></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Start motor</td>
+<td>Start motor<br></td>
 <td></td>
 <td></td>
 <td></td>
@@ -923,7 +933,7 @@ State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remai
 <td>003</td>
 <td>Lock Request</td>
 <td>002</td>
-<td>Reverse H-Bridge</td>
+<td>Reverse H-Bridge<br></td>
 </tr>
 <tr>
 <td>Start Motor</td>
@@ -935,7 +945,7 @@ State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remai
 <td>002</td>
 <td>Close Limit Reached</td>
 <td>001</td>
-<td>Disable Motor</td>
+<td>Disable Motor<br></td>
 </tr>
 <tr>
 <td>Turn off LED</td>
@@ -947,10 +957,18 @@ State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remai
 </table>
 <h3 id="alarm-subsystem">Alarm Subsystem</h3>
 <p>The Alarm system is enabled as soon as the Motor subsystem's internal timer finishes counting down or the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. </p>
-<p><strong>Alarm State Semantics</strong>
-State 001 (Closed, Idle): The alarm subsystem is idle; no components are running.</p>
+<p><strong>Alarm State Semantics</strong></p>
+<ul>
+<li>
+<p>nState 001 (Closed, Idle): The alarm subsystem is idle; no components are running.</p>
+</li>
+<li>
 <p>State 002 (Open/Unlocked): The timer from the motor subsystem sends a signal to the alarm subsystem. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning.</p>
+</li>
+<li>
 <p>State 003 (Alarm Switch): This mode allows the user to open the door for extended periods of time when hauling a load through or for other reasons. The switch is toggled, and this disables all output to the speaker, allowing for quiet use. The warning LED is still turned on to serve as an indicator for the open door</p>
+</li>
+</ul>
 <h3 id="determinism-safety">Determinism &amp; Safety</h3>
 <ul>
 <li>The system implements mechanical input debouncing with hysteresis to stop motor oscillations caused by chattering.</li>
