@@ -37,8 +37,44 @@ The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor
 | 8 | Ground | Ground | Ground | Ground |
 
 
+**Table 2: Connector between Bryce and Dylan**
 
+| Pin |	From	| To	| Type | Description|
+|-----|------|------|------|-------|
+| 1 | - | - | - | not used |
+| 2 | - | - | - | not used |
+| 3 | - | - | - | not used |
+| 4 | - | - | - | not used |
+| 5 | Bryce (RF5) | Dylan (RF6) | 0V / 5V Digital | Door is Closed / Door is Open |
+| 6 | - | - | - | not used |
+| 7 | - | - | - | not used |
+| 8 | Ground | Ground | Ground | Ground |
 
+**Table 3: Connector between Mathew and Dylan**
+
+| Pin |	From	| To	| Type | Description|
+|-----|------|------|------|-------|
+| 1 | - | - | - | not used |
+| 2 | - | - | - | not used |
+| 3 | - | - | - | not used |
+| 4 | - | - | - | not used |
+| 5 | - | - | - | not used |
+| 6 | - | - | - | not used |
+| 7 | - | - | - | not used |
+| 8 | Ground | Ground | Ground | Ground |
+
+**Table 4: Connector between Andrew and Dylan**
+
+| Pin |	From	| To	| Type | Description|
+|-----|------|------|------|-------|
+| 1 | - | - | - | not used |
+| 2 | - | - | - | not used |
+| 3 | - | - | - | not used |
+| 4 | - | - | - | not used |
+| 5 | - | - | - | not used |
+| 6 | - | - | - | not used |
+| 7 | - | - | - | not used |
+| 8 | Ground | Ground | Ground | Ground |
 
 
 
