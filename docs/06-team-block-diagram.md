@@ -20,3 +20,19 @@ The door sensor system block diagram reflects how the team structured the proces
 
 ## Product Requirements
 The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor. It has components and systems capable of both sensing and actuation that adapt communication between boards to ensure security.
+
+
+## Team Connections
+
+| Pin |	From	| To	| Type | Description|
+|-----|------|------|------|-------|
+| 5   | Bryce (RF5) | Andrew (RF5) | 0V / 5V Digital | Door is Closed / Door is Open |
+
+
+
+
+
+
+
+
+
