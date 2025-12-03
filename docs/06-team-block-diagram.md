@@ -55,7 +55,7 @@ The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor
 | Pin |	From	| To	| Type | Description|
 |-----|------|------|------|-------|
 | 1 | - | - | - | not used |
-| 2 | - | - | - | not used |
+| 2 | Mathew (RB2) | Dylan (RF5) | 0V / 5V Digital | Unlock Sequence |
 | 3 | - | - | - | not used |
 | 4 | - | - | - | not used |
 | 5 | - | - | - | not used |
@@ -70,7 +70,7 @@ The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor
 | 1 | - | - | - | not used |
 | 2 | - | - | - | not used |
 | 3 | - | - | - | not used |
-| 4 | - | - | - | not used |
+| 4 | Andrew (RD5) | Dylan (RF7) | 0V / 5V Digital | Alarm / Lock Toggle Switch |
 | 5 | - | - | - | not used |
 | 6 | - | - | - | not used |
 | 7 | - | - | - | not used |
