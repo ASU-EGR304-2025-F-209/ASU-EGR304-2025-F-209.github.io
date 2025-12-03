@@ -28,12 +28,12 @@ The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor
 | Pin |	From	| To	| Type | Description|
 |-----|------|------|------|-------|
 | 1 | - | - | - | not used |
-| 1 | - | - | - | not used |
-| 1 | - | - | - | not used |
-| 1 | - | - | - | not used |
-| 5 | Bryce (RF5) | Andrew (RF5) | 0V / 5V Digital | Door is Closed / Door is Open |
-| 1 | - | - | - | not used |
-| 1 | - | - | - | not used |
+| 2 | - | - | - | not used |
+| 3 | - | - | - | not used |
+| 4 | - | - | - | not used |
+| 5 | Bryce (RF5) | Andrew (RF6) | 0V / 5V Digital | Door is Closed / Door is Open |
+| 6 | - | - | - | not used |
+| 7 | - | - | - | not used |
 | 8 | Ground | Ground | Ground | Ground |
 
 
