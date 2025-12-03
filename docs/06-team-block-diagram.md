@@ -23,11 +23,18 @@ The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor
 
 
 ## Team Connections
+**Table 1: Connector between Bryce and Andrew**
 
 | Pin |	From	| To	| Type | Description|
 |-----|------|------|------|-------|
-| 5   | Bryce (RF5) | Andrew (RF5) | 0V / 5V Digital | Door is Closed / Door is Open |
-
+| 1 | - | - | - | not used |
+| 1 | - | - | - | not used |
+| 1 | - | - | - | not used |
+| 1 | - | - | - | not used |
+| 5 | Bryce (RF5) | Andrew (RF5) | 0V / 5V Digital | Door is Closed / Door is Open |
+| 1 | - | - | - | not used |
+| 1 | - | - | - | not used |
+| 8 | Ground | Ground | Ground | Ground |
 
 
 
