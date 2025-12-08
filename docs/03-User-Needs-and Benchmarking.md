@@ -190,18 +190,375 @@ Requires the Ring Alarm Base Station.
 | Called customer service. Did some troubleshooting and the associate verified based on the information available from wi-fi the lock was not working. Wouldn’t provide replacement without proof of purchase, which I do not have. Going to need to replace the entire lock.                                                                                                                                                                                                           | 2.  The device is easy to troubleshoot.(explicit)                      |
 | Normal keypad lock with wifi. Unable to connect to nest or apple home apps. The Yale lock app is little to be desired assume they want you to use a 3rd party app to manage the lock. I have two of these and cannot configure them to be the same keypad combo.                                                                                                                                                                                                                      | 3.  The device displays system status. (explicit)                      |
 
+## List of User Needs
+1. Reliable detection of door open and close events.
+2. Minimal false alarms.
+3. No missed door activity.
+4. Works in hot or cold temperatures.
+5. Functions reliably in humidity.
+6. Does not drift out of calibration.
+7. Compatible with wood, metal, and glass doors.
+8. Works even with slightly misaligned doors.
+9. Installation alignment does not need perfection.
+10. Not affected by door vibrations or slamming.
+11. Maintains stable Wi-Fi or Bluetooth connection.
+12. Works at the edge of network range.
+13. Automatically reconnects after outages.
+14. Compatible with major smart home systems.
+15. Avoids compatibility issues after updates.
+16. Easy and reliable pairing process.
+17. Remains discoverable during troubleshooting.
+18. Continues basic function even if the app crashes.
+19. Long battery life without frequent replacement.
+20. Accurate battery level reporting.
+21. Early warnings before battery failure.
+22. Option for wired power if needed.
+23. Battery performance unaffected by cold.
+24. Easy battery replacement.
+25. Keeps operating during short power interruptions.
+26. Quick and simple installation.
+27. Adhesive or mounting stays securely attached.
+28. Works on various door frame shapes.
+29. Resistant to pets, kids, and accidental bumps.
+30. Small and unobtrusive design.
+31. Fits uneven or textured surfaces.
+32. Clear installation instructions.
+33. Mounts without damaging the door.
+34. Does not interfere with door movement.
+35. Includes tamper detection.
+36. Prevents unauthorized resets.
+37. Uses encrypted communication.
+38. Does not leak activity or location data.
+39. Sends alerts if disabled or tampered with.
+40. Sends notifications in real time.
+41. Avoids spammy or excessive alerts.
+42. Sends alerts without noticeable delay.
+43. Adjustable alert sensitivity.
+44. Options to mute alerts when home.
+45. Backup alert method when phone is offline.
+46. Provides meaningful, clear notifications.
+47. Differentiates between open, closed, forced, and tampered states.
+48. Simple and intuitive app interface.
+49. Displays accurate sensor status.
+50. Syncs instantly when door state changes.
+51. App updates do not break functionality.
+52. Provides clear troubleshooting steps.
+53. App runs smoothly without freezing.
+54. Avoids requiring multiple apps.
+55. Shows easy-to-read history logs.
+56. Durable materials for long-term use.
+57. Survives door slams without damage.
+58. Resistant to moisture for bathrooms or exterior doors.
+59. Does not degrade under sunlight.
+60. Works reliably around dust and dirt.
+61. Operates in freezing temperatures.
+62. Prevents corrosion over time.
+63. Detects partial door openings when needed.
+64. Ignores movement from drafts.
+65. Works even after long periods of inactivity.
+66. Compatible with sliding or double doors.
+67. Sends reminders when the door is left open.
+68. Integrates with home automation routines.
+69. Functions reliably with multiple sensors nearby.
+70. Operates silently without making distracting noise.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Organized Need Statements
 
 ### First Placement
-[![UserNeeds](https://github.com/user-attachments/assets/22dd2067-5531-4801-9ad5-227f39ecd84a)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeeds.jpeg)
+1. Sufficient battery life so you don't have to change the batteries.
+2. There needs to be some adhesive material to keep the product in place.
+3. The product should be easy and quick to install.
+4. The product shoould describe if it works with other similar products.
+5. Make sure the product is durable enough to last a long time.
+6. Sell the product with all the needed parts to work.
+7. The sensor provides a sense of safety
+8. The sensor is easy to install
+9. The sensor is loud enough to hear anywhere in a home
+10. The sensor should require a security shut-off code.
+11. The sensor should have volume control
+12. The sensor should clearly mark what surface is needed for mounting
+13. The device uses clear communication.
+14. The device is easy to setup and understand.
+15. The device is accurate and durable over numerous uses.
+16. The device is mechanically strong and stable.
+17. The device feels high quality.
+18. The device functions properly
+19. Easy to Set Up and Works Great
+20. Installation more forgiving than expected
+21. Best option for wireless
+22. Wants the sensor to work without requiring the full base station.
+23. Wants the system to maintain connectivity during power/internet outages.
+24. Wants timely and helpful assistance when products fail.
+25. The device instructions are easy to follow.
+26. The device is easy to setup.
+27. The device features is easy to fully learn
+28. The device is able to last multiple uses across a year.
+29. The device is easy to troubleshoot.
+30. The device displays system status.
+31. Reliable detection of door open and close events.
+32. Minimal false alarms.
+33. No missed door activity.
+34. Works in hot or cold temperatures.
+35. Functions reliably in humidity.
+36. Does not drift out of calibration.
+37. Compatible with wood, metal, and glass doors.
+38. Works even with slightly misaligned doors.
+39. Installation alignment does not need perfection.
+40. Not affected by door vibrations or slamming.
+41. Maintains stable Wi-Fi or Bluetooth connection.
+42. Works at the edge of network range.
+43. Automatically reconnects after outages.
+44. Compatible with major smart home systems.
+45. Avoids compatibility issues after updates.
+46. Easy and reliable pairing process.
+47. Remains discoverable during troubleshooting.
+48. Continues basic function even if the app crashes.
+49. Long battery life without frequent replacement.
+50. Accurate battery level reporting.
+51. Early warnings before battery failure.
+52. Option for wired power if needed.
+53. Battery performance unaffected by cold.
+54. Easy battery replacement.
+55. Keeps operating during short power interruptions.
+56. Quick and simple installation.
+57. Adhesive or mounting stays securely attached.
+58. Works on various door frame shapes.
+59. Resistant to pets, kids, and accidental bumps.
+60. Small and unobtrusive design.
+61. Fits uneven or textured surfaces.
+62. Clear installation instructions.
+63. Mounts without damaging the door.
+64. Does not interfere with door movement.
+65. Includes tamper detection.
+66. Prevents unauthorized resets.
+67. Uses encrypted communication.
+68. Does not leak activity or location data.
+69. Sends alerts if disabled or tampered with.
+70. Sends notifications in real time.
+71. Avoids spammy or excessive alerts.
+72. Sends alerts without noticeable delay.
+73. Adjustable alert sensitivity.
+74. Options to mute alerts when home.
+75. Backup alert method when phone is offline.
+76. Provides meaningful, clear notifications.
+77. Differentiates between open, closed, forced, and tampered states.
+78. Simple and intuitive app interface.
+79. Displays accurate sensor status.
+80. Syncs instantly when door state changes.
+81. App updates do not break functionality.
+82. Provides clear troubleshooting steps.
+83. App runs smoothly without freezing.
+84. Avoids requiring multiple apps.
+85. Shows easy-to-read history logs.
+86. Durable materials for long-term use.
+87. Survives door slams without damage.
+88. Resistant to moisture for bathrooms or exterior doors.
+89. Does not degrade under sunlight.
+90. Works reliably around dust and dirt.
+91. Operates in freezing temperatures.
+92. Prevents corrosion over time.
+93. Detects partial door openings when needed.
+94. Ignores movement from drafts.
+95. Works even after long periods of inactivity.
+96. Compatible with sliding or double doors.
+97. Sends reminders when the door is left open.
+98. Integrates with home automation routines.
+99. Functions reliably with multiple sensors nearby.
+100. Operates silently without making distracting noise.
+
+
 
 ### Grouped with categories
-[![UserNeedsSorted (1)](https://github.com/user-attachments/assets/832ee8fe-da0e-438e-acee-cafb4a96fe08)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeedsSorted.jpeg)
+## 1. Installation & Ease of Use
+- Easy and quick installation  
+- Adhesive keeps product in place  
+- Clear mounting surface instructions  
+- Forgiving alignment requirements  
+- Works on various frame shapes and uneven surfaces  
+- Mounts without damage  
+- Does not interfere with door movement  
+- Easy setup, simple instructions, intuitive learning  
+- Easy to troubleshoot  
+- All needed parts included  
+- Easy battery replacement  
+- Compact, unobtrusive design  
 
-### Ranked
-[![UserNeedsRanked (1)](https://github.com/user-attachments/assets/e8a5f868-2817-4359-a20c-6873502f6b35)](https://raw.githubusercontent.com/ASU-EGR304-2025-F-209/ASU-EGR304-2025-F-209.github.io/refs/heads/main/docs/UserNeedsRanked.jpeg)
+## 2. Reliability, Performance & Durability
+- Reliable door open/close detection  
+- No false alarms or missed activity  
+- Accurate over long-term use  
+- Mechanically strong and stable  
+- High-quality materials  
+- Resistant to pets, impacts, and slamming  
+- Functions in heat, cold, humidity, dust, moisture  
+- Resistant to sunlight, corrosion, freezing  
+- Works with misaligned doors  
+- Works with sliding/double doors  
+- Ignores drafts  
+- Operates silently  
+- Works after inactivity  
+- Maintains performance across a year  
+
+## 3. Power & Connectivity
+- Long battery life  
+- Accurate battery reporting and early warnings  
+- Battery works in cold temperatures  
+- Wired power option  
+- Operates during short power interruptions  
+- Stable Wi-Fi/Bluetooth connection  
+- Works at network edge  
+- Auto-reconnects after outages  
+- Works without full base station  
+- Maintains function if app or internet fails  
+- Easy pairing and persistent discoverability  
+- Strong wireless capability  
+
+## 4. Security, Notifications & Safety
+- Provides sense of safety  
+- Requires security shut-off code  
+- Tamper detection and prevention  
+- Encrypted communication  
+- No data leaks  
+- Real-time notifications  
+- Alerts not excessive or delayed  
+- Adjustable sensitivity and volume control  
+- Mute options  
+- Backup alert method when phone offline  
+- Meaningful and clear notifications  
+- Detects forced entry, tamper, partial openings  
+- Sends reminders when door left open  
+
+## 5. App Experience, Compatibility & Support
+- Clear communication from device  
+- Accurate system status display  
+- Syncs instantly  
+- Intuitive, stable app  
+- App updates do not break features  
+- Avoids requiring multiple apps  
+- Easy-to-read history logs  
+- Works with major smart home systems  
+- Avoids compatibility issues  
+- Integrates with home automation routines  
+- Helpful customer support when issues occur  
+
+### Ranked User Needs
+1. Easy and quick installation  
+2. Adhesive keeps product in place  
+3. Clear mounting surface instructions  
+4. Forgiving alignment requirements  
+5. Works on various frame shapes and uneven surfaces  
+6. Mounts without damage  
+7. Does not interfere with door movement  
+8. Easy setup and simple instructions  
+9. Intuitive to learn  
+10. Easy to troubleshoot  
+11. All needed parts included  
+12. Easy battery replacement  
+13. Compact, unobtrusive design  
+14. Reliable door open/close detection  
+15. No false alarms  
+16. No missed door activity  
+17. Accurate long-term performance  
+18. Mechanically strong and stable  
+19. High-quality materials  
+20. Resistant to pets, impacts, and slamming  
+21. Functions in hot or cold temperatures  
+22. Functions reliably in humidity  
+23. Resistant to dust and dirt  
+24. Resistant to moisture  
+25. Resistant to sunlight  
+26. Resistant to corrosion  
+27. Operates in freezing temperatures  
+28. Works with misaligned doors  
+29. Works with sliding or double doors  
+30. Ignores drafts  
+31. Operates silently  
+32. Works after long inactivity  
+33. Maintains consistent performance across a year  
+34. Long battery life  
+35. Accurate battery reporting  
+36. Early battery warnings  
+37. Battery works in cold temperatures  
+38. Wired power option available  
+39. Operates during short power interruptions  
+40. Stable Wi-Fi or Bluetooth connection  
+41. Works at edge of network range  
+42. Automatically reconnects after outages  
+43. Works without full base station  
+44. Maintains basic function if app or internet fails  
+45. Easy and reliable pairing  
+46. Device remains discoverable  
+47. Strong wireless performance  
+48. Provides a sense of safety  
+49. Requires a security shut-off code  
+50. Includes tamper detection  
+51. Prevents unauthorized resets  
+52. Uses encrypted communication  
+53. Does not leak activity or location data  
+54. Sends alerts if disabled or tampered with  
+55. Real-time notifications  
+56. No excessive or spammy alerts  
+57. No noticeable alert delay  
+58. Adjustable alert sensitivity  
+59. Adjustable volume control  
+60. Options to mute alerts  
+61. Backup alert method when phone is offline  
+62. Meaningful, clear notifications  
+63. Detects forced entry  
+64. Detects partial openings  
+65. Sends reminders when door is left open  
+66. Device uses clear communication  
+67. Displays accurate system status  
+68. Syncs instantly with door state  
+69. App is simple and intuitive  
+70. App runs smoothly without freezing  
+71. App updates do not break functionality  
+72. Avoids requiring multiple apps  
+73. Shows easy-to-read history logs  
+74. Works with major smart home systems  
+75. Avoids compatibility issues after updates  
+76. Integrates with home automation routines  
+77. Helps maintain connectivity during outages  
+78. Timely and helpful assistance when products fail  
+79. Sensor is loud enough to hear anywhere in a home  
+80. Volume control included  
+81. Best option for wireless operation  
+82. Sensor provides security reassurance  
+83. Device feels high quality  
+84. Device functions properly under repeated use  
+85. Accurate calibration without drift  
+86. Continues working if app crashes  
+87. Resistant to bathroom or exterior moisture  
+88. Works on wood, metal, and glass doors  
+89. Works despite door vibrations  
+90. Easy system learning curve  
+91. System remains stable over many uses  
+92. Avoids missed notifications  
+93. Clear identification of compatible products  
+94. Clear installation documentation  
+95. Quick learning of device features  
+96. Operates with multiple sensors nearby  
+97. Avoids issues with firmware updates  
+98. Reliable status reporting  
+99. Works on textured surfaces  
+100. Installation alignment not critical  
 
 ## Compiled list of user Needs
 
@@ -235,3 +592,78 @@ Requires the Ring Alarm Base Station.
 28. The device is able to last multiple uses across a year.
 29. The device is easy to troubleshoot.
 30. The device displays system status.
+31. Reliable detection of door open and close events.
+32. Minimal false alarms.
+33. No missed door activity.
+34. Works in hot or cold temperatures.
+35. Functions reliably in humidity.
+36. Does not drift out of calibration.
+37. Compatible with wood, metal, and glass doors.
+38. Works even with slightly misaligned doors.
+39. Installation alignment does not need perfection.
+40. Not affected by door vibrations or slamming.
+41. Maintains stable Wi-Fi or Bluetooth connection.
+42. Works at the edge of network range.
+43. Automatically reconnects after outages.
+44. Compatible with major smart home systems.
+45. Avoids compatibility issues after updates.
+46. Easy and reliable pairing process.
+47. Remains discoverable during troubleshooting.
+48. Continues basic function even if the app crashes.
+49. Long battery life without frequent replacement.
+50. Accurate battery level reporting.
+51. Early warnings before battery failure.
+52. Option for wired power if needed.
+53. Battery performance unaffected by cold.
+54. Easy battery replacement.
+55. Keeps operating during short power interruptions.
+56. Quick and simple installation.
+57. Adhesive or mounting stays securely attached.
+58. Works on various door frame shapes.
+59. Resistant to pets, kids, and accidental bumps.
+60. Small and unobtrusive design.
+61. Fits uneven or textured surfaces.
+62. Clear installation instructions.
+63. Mounts without damaging the door.
+64. Does not interfere with door movement.
+65. Includes tamper detection.
+66. Prevents unauthorized resets.
+67. Uses encrypted communication.
+68. Does not leak activity or location data.
+69. Sends alerts if disabled or tampered with.
+70. Sends notifications in real time.
+71. Avoids spammy or excessive alerts.
+72. Sends alerts without noticeable delay.
+73. Adjustable alert sensitivity.
+74. Options to mute alerts when home.
+75. Backup alert method when phone is offline.
+76. Provides meaningful, clear notifications.
+77. Differentiates between open, closed, forced, and tampered states.
+78. Simple and intuitive app interface.
+79. Displays accurate sensor status.
+80. Syncs instantly when door state changes.
+81. App updates do not break functionality.
+82. Provides clear troubleshooting steps.
+83. App runs smoothly without freezing.
+84. Avoids requiring multiple apps.
+85. Shows easy-to-read history logs.
+86. Durable materials for long-term use.
+87. Survives door slams without damage.
+88. Resistant to moisture for bathrooms or exterior doors.
+89. Does not degrade under sunlight.
+90. Works reliably around dust and dirt.
+91. Operates in freezing temperatures.
+92. Prevents corrosion over time.
+93. Detects partial door openings when needed.
+94. Ignores movement from drafts.
+95. Works even after long periods of inactivity.
+96. Compatible with sliding or double doors.
+97. Sends reminders when the door is left open.
+98. Integrates with home automation routines.
+99. Functions reliably with multiple sensors nearby.
+100. Operates silently without making distracting noise.
+
+
+### Description of Process
+We looked up products on Google and Amazon and other websites and looked at the reviews of products related to our idea. We then took the general idea of the comment and found a need of a product based on the review. We then took all of our user needs and put them into a list. Next we organized them into 5 groups, 1. Installation & Ease of Use, 2. Reliability, Performance & Durability, 3. Power & Connectivity, 4. Security, Notifications & Safety, and 5. App Experience, Compatibility & Support. Then we took all of our needs again and ranked them based on how important we thought they were.
+
