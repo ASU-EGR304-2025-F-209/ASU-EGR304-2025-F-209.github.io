@@ -378,8 +378,7 @@ Add your context and tables
 - Gyroscope
 
 
-![IMG_0283](https://github.com/user-attachments/assets/c4b88697-3559-4b71-9199-c95e022dfa5f)
-
+<img width="1712" height="2001" alt="Concept 1" src="https://github.com/user-attachments/assets/6b609513-333a-487e-9711-49175aade584" />
 
 
 ### Concept 2: Ultra-Simple Magnetic Door Sensor
@@ -392,8 +391,7 @@ Add your context and tables
 - Volume knob
 - Connects via Bluetooth
 
-![IMG_0284](https://github.com/user-attachments/assets/488c58fa-945b-4699-bed8-fc3db5179ee4)
-
+<img width="2488" height="2001" alt="Concept 2" src="https://github.com/user-attachments/assets/20686bfa-11c1-45e3-9789-af493e2f06bf" />
 
 
 ### Concept 3: High-Security Smart Door Sensor
@@ -406,7 +404,8 @@ Add your context and tables
 - Keypad
 - Connects via Ethernet
 
-![IMG_0285](https://github.com/user-attachments/assets/206a1104-b6af-4da2-b9f2-9d701a72885c)
+<img width="2523" height="2001" alt="Concept 3" src="https://github.com/user-attachments/assets/9eb652ef-95a2-4e1a-9ffd-a876feaa5fc3" />
+
 
 ## Documenting Our Work
 
