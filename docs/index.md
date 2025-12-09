@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Smart Door Sensor<br>
 <font size="5">Team 209<br>
-**Submission: October, 27, 2025**<br>
+**Submission: December, 08, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
