@@ -25,7 +25,3 @@ Here are some pictures of our project.
 **Figure 04** Dylan's Design
 
 <br>
-
-
-
-Here is a Zip of the CAD files for our project [*here*](CAD.zip).
