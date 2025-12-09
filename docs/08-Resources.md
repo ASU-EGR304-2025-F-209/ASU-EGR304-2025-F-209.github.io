@@ -25,3 +25,13 @@ Here are some pictures of our project.
 **Figure 04** Dylan's Design
 
 <br>
+
+## Files
+
+You can download Matthew's PCB [*here*](MLS_PCB.zip)
+
+You can download Bryce's PCB [*here*](BW_PCB.zip)
+
+You can download Andrew's PCB [*here*](AI_PCB.zip)
+
+You can download Dylan's PCB [*here*](DVG_PCB.zip)
