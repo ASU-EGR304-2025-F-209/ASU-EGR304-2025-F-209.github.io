@@ -1,5 +1,5 @@
 ---
-title: Ideation and Concept Generation
+title: Team Design Ideation
 tags:
 - tag1
 - tag2
