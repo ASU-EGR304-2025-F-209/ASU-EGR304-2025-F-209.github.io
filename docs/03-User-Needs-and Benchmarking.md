@@ -1,5 +1,5 @@
 ---
-title: User Needs and Benchmarking
+title: User Needs & Benchmarking
 ---
 
 ## Voice of the Customer Benchmarking Example
