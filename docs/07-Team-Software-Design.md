@@ -16,8 +16,8 @@ The door controller firmware operates on a series of loops that are capable of s
 The system starts its operation by setting hardware registers to their initial values and clearing all software variables, and establishing communication links between MCUs.
 
 
-### UltraSonic Sensor Subsystem
-The Ultrasonic Sensor Subsystem initializes and runs throughout the device’s power-on time. It repeatedly sends a distance value, converted from an analog reading from the sensor to a range of values by the UART module in the MCU, to the other MCUs in the System
+### IR Emitter/Detector Subsystem
+The IR Emitter/Detector Subsystem initializes and runs throughout the device’s power-on time. It sends a high or low signal for wether the door is open or closed, converted from an analog reading from the sensor to a digital high/low by the ADC module in the MCU, to the other MCUs in the System
 
 
 ### Pushbutton Subsystem 
