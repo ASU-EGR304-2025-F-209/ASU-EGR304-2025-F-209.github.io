@@ -34,4 +34,4 @@ You can download Bryce's PCB [*here*](https://github.com/user-attachments/files/
 
 You can download Andrew's PCB [*here*](AI_PCB.zip)
 
-You can download Dylan's PCB [*here*](https://github.com/user-attachments/files/24044975/Schematic.zip))
+You can download Dylan's PCB [*here*](https://github.com/user-attachments/files/24044975/Schematic.zip)
