@@ -416,3 +416,14 @@ Our team’s second session was also held in the ASU Polytechnic library, where 
 Our team’s third meeting was also held in the library, where we started by thinking of different concept ideas that could work as a product using our ranked features. We came up with 3 different concepts using a few features because there were a lot. Then Bryce drew the concept ideas, trying to incorporate the features as best as he could. Finally finished with the drawings, he added them to the assignment along with the concept ideas and the features that were listed in the drawings.
 
 We drew our list of requirements from the Team - Design Ideation assignment which had all the information we needed. We used Google Docs to collect our ideas together as it updated instantly and we all typed into it adding onto each other. We also used google to generate ideas for when we got stuck and could not think of anything else.
+
+
+![Matthew](UserNeeds.jpeg)
+**Figure 01** User Needs
+
+![Bryce](UserNeedsRanked.jpeg)
+**Figure 02** Ranked User Needs
+
+![Andrew](UserNeedsSorted.jpeg)
+**Figure 03** Sorted User Needs
+
