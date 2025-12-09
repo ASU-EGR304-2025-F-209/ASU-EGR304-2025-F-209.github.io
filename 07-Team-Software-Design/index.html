@@ -617,18 +617,27 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#ir-emitterdetector-subsystem" class="md-nav__link">
+  <a href="#ultrasonic-sensor-subsystem" class="md-nav__link">
     <span class="md-ellipsis">
-      IR Emitter/Detector Subsystem
+      UltraSonic Sensor Subsystem
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#pushbutton-subsystem" class="md-nav__link">
+  <a href="#fingerpad-subsystem" class="md-nav__link">
     <span class="md-ellipsis">
-      Pushbutton Subsystem
+      FingerPad Subsystem
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toggle-switch-semantics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Toggle Switch Semantics
     </span>
   </a>
   
@@ -817,18 +826,27 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#ir-emitterdetector-subsystem" class="md-nav__link">
+  <a href="#ultrasonic-sensor-subsystem" class="md-nav__link">
     <span class="md-ellipsis">
-      IR Emitter/Detector Subsystem
+      UltraSonic Sensor Subsystem
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#pushbutton-subsystem" class="md-nav__link">
+  <a href="#fingerpad-subsystem" class="md-nav__link">
     <span class="md-ellipsis">
-      Pushbutton Subsystem
+      FingerPad Subsystem
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#toggle-switch-semantics" class="md-nav__link">
+    <span class="md-ellipsis">
+      Toggle Switch Semantics
     </span>
   </a>
   
@@ -898,77 +916,37 @@
 <h2 id="logic-flow">Logic Flow</h2>
 <p>The door controller firmware operates on a series of loops that are capable of simultaneous processing among the individual subsystems. 
 The system starts its operation by setting hardware registers to their initial values and clearing all software variables, and establishing communication links between MCUs.</p>
-<h3 id="ir-emitterdetector-subsystem">IR Emitter/Detector Subsystem</h3>
-<p>The IR Emitter/Detector Subsystem initializes and runs throughout the device’s power-on time. It sends a high or low signal for wether the door is open or closed, converted from an analog reading from the sensor to a digital high/low by the ADC module in the MCU, to the other MCUs in the System</p>
-<h3 id="pushbutton-subsystem">Pushbutton Subsystem</h3>
+<h3 id="ultrasonic-sensor-subsystem">UltraSonic Sensor Subsystem</h3>
+<p>The Ultrasonic Sensor Subsystem initializes and runs throughout the device’s power-on time. It repeatedly sends a distance value, converted from an analog reading from the sensor to a digital one or zero to signal an open or close.</p>
+<h3 id="fingerpad-subsystem">FingerPad Subsystem</h3>
 <ul>
-<li>The Unlock Sequence is the first loop that follows in the flow of operations. It works using a series of push buttons that act as a number pad that enables the user to lock and unlock the door.</li>
+<li>The Unlock Sequence works with a series of push buttons that act as a number pad that enables the user to lock and unlock the door.</li>
 <li>The pushbuttons, all connected to the MCU, draw a high value when pushed down. This is mapped to a character that is stored in the memory. </li>
 <li>The MCU compares the sequence of characters entered against a previously stored array of characters, either from the manufacturer or during the first startup, to check if the “Password” is correct. 
-If correct, the Pushbutton subsystem sends a signal to the motor subsystem; else, a reinput is needed for unlock.</li>
+If correct, the Fingerpad subsystem continues unto the main loop, else, a re-input is needed for unlock.</li>
 </ul>
+<h3 id="toggle-switch-semantics">Toggle Switch Semantics</h3>
+<p>This simply works as an override button. When pulled high, it disables the activities of both the Motor and Alarm Subsystem, and forces them to their low states.</p>
 <h3 id="motor-subsystem">Motor Subsystem</h3>
-<p>The motor system is initialized on State 001. It receives a signal from the “numberpad” and changes states depending on either a locking or an unlocking sequence.</p>
+<p>The motor system receives a signal from the Fingerpad, Toggle switch and UR Sensor in order to changes states depending on either a locking or an unlocking sequence.</p>
 <p><strong>Motor State Semantics</strong></p>
 <ul>
 <li>
-<p>State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."</p>
+<p>State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."Here, the fingerpad array does not match, or the toggle switch is on.</p>
 </li>
 <li>
-<p>State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation.</p>
-</li>
-<li>
-<p>State 003 (Open, Idle/Unlocked): The motor stays disabled while the status LED shows "open" and the auto-close timer operates in the background.</p>
+<p>State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation. All 3 conditions, UR Sensor sends an high ,fingerpad array matches, and the toggle switch is off (low), must be met.</p>
 </li>
 </ul>
-<table>
-<thead>
-<tr>
-<th>From</th>
-<th>Condition</th>
-<th>to</th>
-<th>Immediate action</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>001</td>
-<td>Unlock request</td>
-<td>002</td>
-<td>1.Unlock Sequence <br> 2.Enable H-bridge <br>3.Start motor <br> 4.Turn on LED</td>
-</tr>
-<tr>
-<td>002</td>
-<td>Open limit reached</td>
-<td>003</td>
-<td>1.Disable motor <br>2.Start auto-close timer (if enabled)</td>
-</tr>
-<tr>
-<td>003</td>
-<td>Lock Request</td>
-<td>002</td>
-<td>1.Lock Sequence<br> 2.Reverse H-Bridge <br> 3.Start Motor</td>
-</tr>
-<tr>
-<td>002</td>
-<td>Close Limit Reached</td>
-<td>001</td>
-<td>1. Disable Motor <br> 2.Turn off LED</td>
-</tr>
-</tbody>
-</table>
 <h3 id="alarm-subsystem">Alarm Subsystem</h3>
-<p>The Alarm system is enabled as soon as the Motor subsystem's internal timer finishes counting down or the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. </p>
+<p>The Alarm system is enabled as soon as the subsystem's internal timer finishes counting down when the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. It requires the UR Sensor and Toggle switch Input.</p>
 <p><strong>Alarm State Semantics</strong></p>
 <ul>
 <li>
-<p>State 001 (Closed, Idle): The alarm subsystem is idle; no components are running.</p>
+<p>State 001 (Closed, Idle): The alarm subsystem is idle; no components are running. Here, the UR Sensor sends a low or the toggle switch sends an high.</p>
 </li>
 <li>
-<p>State 002 (Open/Unlocked): The timer from the motor subsystem sends a signal to the alarm subsystem. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning.</p>
-</li>
-<li>
-<p>State 003 (Alarm Switch): This mode allows the user to open the door for extended periods of time when hauling a load through or for other reasons. The switch is toggled, and this disables all output to the speaker, allowing for quiet use. The warning LED is still turned on to serve as an indicator for the open door</p>
+<p>State 002 (Alarm On): The timer from the motor subsystem sends a signal to the alarm subsystem after. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning. The UR Value must be high and Toggle Switch low for the alarm to run.</p>
 </li>
 </ul>
 <h2 id="conclusions">Conclusions</h2>
