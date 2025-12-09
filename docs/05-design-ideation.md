@@ -418,12 +418,14 @@ Our team’s third meeting was also held in the library, where we started by thi
 We drew our list of requirements from the Team - Design Ideation assignment which had all the information we needed. We used Google Docs to collect our ideas together as it updated instantly and we all typed into it adding onto each other. We also used google to generate ideas for when we got stuck and could not think of anything else.
 
 
-![Matthew](UserNeeds.jpeg)
+![Needs](UserNeeds.jpeg)
 **Figure 01** User Needs
 
-![Bryce](UserNeedsRanked.jpeg)
-**Figure 02** Ranked User Needs
+![Sorted](UserNeedsSorted.jpeg)
+**Figure 02** Sorted User Needs
 
-![Andrew](UserNeedsSorted.jpeg)
-**Figure 03** Sorted User Needs
+![Ranked](UserNeedsRanked.jpeg)
+**Figure 03** Ranked User Needs
+
+
 
