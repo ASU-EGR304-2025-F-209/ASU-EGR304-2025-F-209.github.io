@@ -77,5 +77,11 @@ The Block Diagram fulfils the basic functionality needs of the Smart Door Sensor
 | 8 | Ground | Ground | Ground | Ground |
 
 
+##  Top 5 changes to our software design
+1. We are outputing a digital signal instead of an analog signal to determine that our door is open or closed. We had it outputing an analog signal but that would have been confusing to each other and there was no point. Instead we are sharing a signal that tells if the door is open or closed.
+2. We removed our timer for the alarm system, as it did not work. It just paused the entire system waiting to turn on the alarm, so it was changed to be an instant activation.
+3. We changed our motor idea, as we were planning on using an encoder to track where the lock was and if the door was locked or unlocked. Instead we got rid of that because it got very confusing to try and code and wire.
+4. 
+
 
 
