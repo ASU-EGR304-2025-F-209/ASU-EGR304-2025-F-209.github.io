@@ -617,9 +617,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#ultrasonic-sensor-subsystem" class="md-nav__link">
+  <a href="#ir-emitterdetector-subsystem" class="md-nav__link">
     <span class="md-ellipsis">
-      UltraSonic Sensor Subsystem
+      IR Emitter/Detector Subsystem
     </span>
   </a>
   
@@ -822,9 +822,9 @@
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
-  <a href="#ultrasonic-sensor-subsystem" class="md-nav__link">
+  <a href="#ir-emitterdetector-subsystem" class="md-nav__link">
     <span class="md-ellipsis">
-      UltraSonic Sensor Subsystem
+      IR Emitter/Detector Subsystem
     </span>
   </a>
   
@@ -912,8 +912,8 @@
 <h2 id="logic-flow">Logic Flow</h2>
 <p>The door controller firmware operates on a series of loops that are capable of simultaneous processing among the individual subsystems. 
 The system starts its operation by setting hardware registers to their initial values and clearing all software variables, and establishing communication links between MCUs.</p>
-<h3 id="ultrasonic-sensor-subsystem">UltraSonic Sensor Subsystem</h3>
-<p>The Ultrasonic Sensor Subsystem initializes and runs throughout the device’s power-on time. It repeatedly sends a distance value, converted from an analog reading from the sensor to a digital one or zero to signal an open or close.</p>
+<h3 id="ir-emitterdetector-subsystem">IR Emitter/Detector Subsystem</h3>
+<p>The IR Emitter/Detector Subsystem initializes and runs throughout the device’s power-on time. It sends a high or low signal for wether the door is open or closed, converted from an analog reading from the sensor to a digital high/low by the ADC module in the MCU, to the other MCUs in the System</p>
 <h3 id="fingerpad-subsystem">FingerPad Subsystem</h3>
 <ul>
 <li>The Unlock Sequence works with a series of push buttons that act as a number pad that enables the user to lock and unlock the door.</li>
