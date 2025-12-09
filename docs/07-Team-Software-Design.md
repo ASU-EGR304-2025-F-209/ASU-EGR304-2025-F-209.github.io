@@ -17,46 +17,37 @@ The system starts its operation by setting hardware registers to their initial v
 
 
 ### UltraSonic Sensor Subsystem
-The Ultrasonic Sensor Subsystem initializes and runs throughout the device’s power-on time. It repeatedly sends a distance value, converted from an analog reading from the sensor to a range of values by the UART module in the MCU, to the other MCUs in the System
+The Ultrasonic Sensor Subsystem initializes and runs throughout the device’s power-on time. It repeatedly sends a distance value, converted from an analog reading from the sensor to a digital one or zero to signal an open or close.
 
 
-### Pushbutton Subsystem 
-* The Unlock Sequence is the first loop that follows in the flow of operations. It works using a series of push buttons that act as a number pad that enables the user to lock and unlock the door.
+### FingerPad Subsystem 
+* The Unlock Sequence works with a series of push buttons that act as a number pad that enables the user to lock and unlock the door.
 * The pushbuttons, all connected to the MCU, draw a high value when pushed down. This is mapped to a character that is stored in the memory. 
 * The MCU compares the sequence of characters entered against a previously stored array of characters, either from the manufacturer or during the first startup, to check if the “Password” is correct. 
-If correct, the Pushbutton subsystem sends a signal to the motor subsystem; else, a reinput is needed for unlock.
+If correct, the Fingerpad subsystem continues unto the main loop, else, a re-input is needed for unlock.
 
+### Toggle Switch Semantics
+This simply works as an override button. When pulled high, it disables the activities of both the Motor and Alarm Subsystem, and forces them to their low states.
 
 ### Motor Subsystem
-The motor system is initialized on State 001. It receives a signal from the “numberpad” and changes states depending on either a locking or an unlocking sequence.
+The motor system receives a signal from the Fingerpad, Toggle switch and UR Sensor in order to changes states depending on either a locking or an unlocking sequence.
 
 **Motor State Semantics**
 
-- State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."
+- State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."Here, the fingerpad array does not match, or the toggle switch is on.
 
-- State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation.
-
-- State 003 (Open, Idle/Unlocked): The motor stays disabled while the status LED shows "open" and the auto-close timer operates in the background.
-
-|From |Condition |to|Immediate action|
-|-----------|--------|--------|---------|
-|001|Unlock request| 002|1.Unlock Sequence <br> 2.Enable H-bridge <br >3.Start motor <br> 4.Turn on LED|
-|002|Open limit reached |003|1.Disable motor <br>2.Start auto-close timer (if enabled)|
-|003|Lock Request|002|1.Lock Sequence<br> 2.Reverse H-Bridge <br> 3.Start Motor|
-|002|Close Limit Reached|001|1. Disable Motor <br> 2.Turn off LED|
-
+- State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation. All 3 conditions, UR Sensor sends an high ,fingerpad array matches, and the toggle switch is off (low), must be met.
 
 
 ### Alarm Subsystem
-The Alarm system is enabled as soon as the Motor subsystem's internal timer finishes counting down or the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. 
+The Alarm system is enabled as soon as the subsystem's internal timer finishes counting down when the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. It requires the UR Sensor and Toggle switch Input.
 
 **Alarm State Semantics**
 
-- State 001 (Closed, Idle): The alarm subsystem is idle; no components are running.
+- State 001 (Closed, Idle): The alarm subsystem is idle; no components are running. Here, the UR Sensor sends a low or the toggle switch sends an high.
 
-- State 002 (Open/Unlocked): The timer from the motor subsystem sends a signal to the alarm subsystem. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning.
+- State 002 (Alarm On): The timer from the motor subsystem sends a signal to the alarm subsystem after. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning. The UR Value must be high and Toggle Switch low for the alarm to run.
 
-- State 003 (Alarm Switch): This mode allows the user to open the door for extended periods of time when hauling a load through or for other reasons. The switch is toggled, and this disables all output to the speaker, allowing for quiet use. The warning LED is still turned on to serve as an indicator for the open door
 
 
 ## Conclusions
