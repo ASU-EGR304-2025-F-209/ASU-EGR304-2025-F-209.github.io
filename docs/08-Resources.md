@@ -30,7 +30,7 @@ Here are some pictures of our project.
 
 You can download Matthew's PCB [*here*](MLS_PCB.zip)
 
-You can download Bryce's PCB [*here*](BW_PCB.zip)
+You can download Bryce's PCB [*here*](https://github.com/user-attachments/files/24045731/BW_Subsystem.Schematic.Design.zip)
 
 You can download Andrew's PCB [*here*](AI_PCB.zip)
 
