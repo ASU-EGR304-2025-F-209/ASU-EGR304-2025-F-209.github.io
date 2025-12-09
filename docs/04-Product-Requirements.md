@@ -11,92 +11,72 @@ This project aims to investigate and develop smart adaptive technologies, an imp
 
 ## Stakeholders
 
-- **Target group** Home owners or apartment renters. They fit the use-case of the product. The main benefits are security and energy savings.
-- **Target purchaser** Target group profile with special attention to Full Nest I and Full Nest II mothers.
-- **Customer service** Prefers easy-to-repair, easy-to-fix complaints, and clear instructions.
-- **Marketing & Sales division** Looks for unique selling points around retail stores and online marketplaces.
-- **Retailers** Prefer products that can withstand a wide range of storage conditions including variations in temperature, vibration, humidity, and atmospheric pressure, and have a strong and compact, theft, and vandalism-proof packaging.
+**Primary users**
+The system provides door activity awareness to residential home and apartment residents who need this information for safety purposes and security needs and caregiving requirements and personal convenience. The system serves people who have mobility issues and parents with children and senior citizens who need assurance and travelers who need door status updates.
+
+**Secondary users**
+The accurate status information helps family members and caregivers who need it to support their dependent older adults and children.
+
+**Installers**
+The device requires users to perform basic setup and maintenance tasks using simple tools without needing extensive technical knowledge.
+
+**Manufacturing and reliability teams**
+The teams need to verify that the device remains functional through storage and environmental tests which occur during distribution and extended usage.
+
+**Service and support teams**
+The teams need to understand device diagnostics and repair standards and performance stability to deliver excellent customer service over time.
 
 
 ## Use Cases
 
-* **User Story #1: Matthew**
-Matthew is a 33-year-old new homeowner. He is looking for something to provide some extra security to his home. His new smart door sensor allows him to sleep easy knowing it will alert him to any theives breaking in at night.<br>
-Matthew also likes to travel. His new smart door sensors allow him to know whenever a door is open by alerting him on his phone. 
+* **Persona 1: Jordan**
+The 34-year-old single parent Jordan cares for his two children who are younger than eight years old. The door status notification system must function during peak times when people enter and leave their homes. The person needs to check the door status through a device because their hands remain occupied at all times. The system must provide door status updates in real time through a simple interface that requires minimal user input. The system requires operation under both noisy and fast-paced conditions.
 
-* **User Story #2: Alice**
-Alice is a 27-year-old mother of three boys. She is looking for a device to monitor when her children open the door and leave the house while with the door open. This smart door sensor assists her by alerting when the door has been left open for a while, and when the door is used by her children.<br>
-This device provides ease for the mother from having to check up on the door whenever it is used.
+* **Persona 2: Kai**
+The 72-year-old retired teacher Kai suffers from arthritis which limits his mobility. The door requires multiple attempts to open which leads to discomfort for him. The door needs to provide absolute confirmation of its closed position before Kai goes to sleep. The system must provide information that can be understood easily without needing quick responses or precise hand movements. The system needs to be reliable while providing easy access to information.
 
-## Aspects
+* **Persona 3: Sam**
+Sam travels extensively because he spends extended periods outside his home. The system needs to track door activity precisely while sending alerts about unusual door behavior or extended door openings. The system needs to operate consistently for extended periods while resisting environmental stress to prevent breakdowns when no one is present.
+## Requirements
 
-The product design will be based on highlights of the benchmarked products while adhering the following requirements. The **P1 - P10** is the "code" to indicate the priority of the requirement, from low to high.
+1. Functional Requirements
 
-1. **Product Design**
-      * 1.1 The product shall operate with a motor noise level not exceeding 40 dB. (P2)
-      * 1.2 The product shall provide a tamper-resistant locking mechanism compatible with standard residential doors. (P3)
-      * The product shall maintain a compact form suitable for standard US, EU, and Asian door frames. (P3)
-  
-2. **Functionality**
-      * 2.1 The product shall provide mobile app control on both iOS and Android with secure authentication. (P10)
-      * 2.2 The product shall send real-time alerts for door left open, forced entry attempts, and lock tampering. (P9)
-      * 2.3 The product shall integrate with smart home ecosystems such as Google Home, Alexa, and Apple HomeKit. (P5)
-      * 2.4 The product shall log and store access history including user identity and timestamp. (P2)
+1.1 The device shall detect door position states with at least 99 percent accuracy under normal residential use conditions.
+1.2 The device shall report a change in door position within one second of that change.
+1.3 The device shall store a minimum of five hundred recorded door events accessible for review.
+1.4 The device shall operate without user recalibration for at least twelve months under typical usage.
+1.5 The device shall function in indoor temperatures between zero and forty degrees Celsius with no performance loss measurable greater than five percent.
+1.6 The device shall support operation during temporary loss of external connectivity and shall restore full reporting when connectivity returns with no user intervention.
+2. Usability and Accessibility Requirements
 
-3. **Interactivity & User Experience**
-      * 3.1 The product shall provide haptic or audio feedback when locking and unlocking. (P8)
-      * 3.2 The product shall support DIY-friendly installation with clear instructions. (P5)
-      * 3.3 The product shall provide an intuitive mobile app interface with a simple lock/unlock dashboard. (P9)
-      * 3.4 The product shall support multi-language options in the mobile app. (P6)
+2.1 The device shall communicate door status in a format understandable by users who have reduced hearing, reduced vision, or limited mobility.
+2.2 The setup process shall be completable by a first time user in less than fifteen minutes using only basic tools commonly found in residential settings.
+2.3 All user facing feedback indicators shall be perceivable at a distance of at least three meters under normal indoor lighting.
+2.4 The device shall require no fine motor action smaller than ten millimeters for setup or operation.
+2.5 Instructions shall be understandable at a reading level equivalent to grade eight.
 
-4. **Customization**
-      * 4.1 The product shall allow replaceable external covers and finishes for aesthetic preferences. (P2)
-      * 4.2 The product shall allow customization of lock/unlock sounds and app themes. (P7)
-      * 4.3 The product shall support optional add-on modules such as a camera or keypad. (P5)
+3. Safety Requirements
 
-5. **Manufacturing**
-      * 5.1 The product shall be designed to meet a durability standard of at least 100,000 lock/unlock cycles. (P10)
-      * 5.2 The product shall use energy-efficient components that allow a minimum battery life of one year using 4 AA batteries. (P8)
-      * 5.3 The product shall be designed with modular components to allow easy replacement of faulty parts. (P6)
-      * 5.4 The product shall be packaged using environmentally friendly materials. (P1)
+3.1 The device shall not create pinch hazards and shall maintain a minimum physical clearance of four millimeters between moving parts.
+3.2 The device shall remain safe to touch in operating conditions and shall not exceed a surface temperature of fifty degrees Celsius.
+3.3 The device shall enter a fail safe state that prevents entrapment hazards if internal power is lost.
+3.4 The device shall generate a user alert when its remaining power is estimated to last fewer than two weeks of normal operation.
 
-6. **Safety**
-      * 6.1 The product shall provide fail-safe operation to unlock in fire or emergency situations if power is cut. (P9)
-      * 6.2 The product shall include finger entrapment and pinch protection in its mechanical design. (P8)
-      * 6.3 The product shall resist brute-force attacks up to at least 1,000 pounds of force. (P6)
-      * 6.4 The product shall provide tamper detection and issue alerts in case of forced entry. (P5)
-      * 6.5 The product shall include overheat protection for the motor and PCB. (P7)
+4. Reliability and Durability Requirements
 
+4.1 The device shall complete at least fifty thousand door state cycles without measurable degradation of accuracy greater than one percent.
+4.2 The device shall withstand direct mechanical force of at least four thousand five hundred newtons without structural failure.
+4.3 All components shall function after storage at humidity levels up to eighty percent for at least one month.
+4.4 The device shall operate for at least twelve months on a single set of consumer replaceable batteries under standard usage assumptions.
+4.5 The device shall resume normal function within five seconds following a power restoration event.
 
-## Requirement Criteria Specifications
+5. Environmental and Manufacturing Requirements
 
-* 1.1.1 – The motor shall not exceed 40 dB measured at 1 meter distance under normal operation.
-* 1.2.1 – The mechanism shall withstand at least 1,000 lb of direct force without failure.
-* 2.1.1 – The mobile app shall be compatible with iOS 15+ and Android 11+.
-* 2.2.1 – The system shall support push notifications via mobile app.
-* 2.3.1 – The lock shall support API protocols required by Google, Alexa, and Apple ecosystems.
-* 2.4.1 – The log shall store at least 500 access events locally.
-* 3.1.1 – The device shall provide a vibration within 1 second of access.
-* 3.2.1 – The product shall be installable using only a standard screwdriver.
-* 3.2.2 – The product shall include a step-by-step installation guide with diagrams.
-* 3.3.1 – The main dashboard shall allow one-click lock/unlock.
-* 3.4.1 – The app shall support at least English, Spanish, and Mandarin.
-* 4.1.1 – At least three finish options shall be available (e.g., coated aluminum, matte black, stainless steel).
-* 4.2.1 – The app shall provide at least two theme color schemes.
-* 4.3.1 – The product shall include a modular port for expansion modules.
-* 5.1.1 – The locking mechanism shall pass a 100,000-cycle test at room temperature.
-* 5.1.2 – The locking mechanism shall pass a 50,000-cycle test at elevated humidity (RH ≥ 80%).
-* 5.2.1 – The lock shall consume less than 500 µA in standby mode.
-* 5.2.2 – The system shall complete at least 50,000 lock/unlock operations on a single set of batteries.
-* 5.3.1 – The PCB, motor, and sensor assembly shall be separable via connectors.
-* 5.4.1 – Packaging shall use 90% recyclable material by weight.
-* 5.4.2 – Plastic packaging shall be biodegradable or recyclable.
-* 6.2.1 – The lock shall default to an unlocked state if internal power is lost.
-* 6.2.2 – The lock shall provide weeks of prior notice before internal power is lost.
-* 6.3.1 – The gap between moving parts shall not exceed 4 mm to prevent finger trapping.
-* 6.4.2 – The circuit shall use thermal fuses rated at 85°C.
-* 6.5.1 – The mounting hardware shall withstand torque forces up to 100 N·m.
-* 6.6.1 – Tamper detection shall trigger a local alarm and send a remote alert within 5 seconds.
+5.1 The device shall contain at least ninety percent recyclable material by weight.
+5.2 The device packaging shall contain at least ninety percent recyclable or biodegradable material by weight.
+5.3 The device design shall allow disassembly of major subassemblies in under three minutes for repair by trained service personnel.
+5.4 All materials used shall comply with RoHS restrictions on hazardous substances.
+
 
 ## Open Questions
 
