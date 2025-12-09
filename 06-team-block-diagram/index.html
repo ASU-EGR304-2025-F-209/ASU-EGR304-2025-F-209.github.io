@@ -613,6 +613,15 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#top-5-changes-to-our-software-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top 5 changes to our software design
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -795,6 +804,15 @@
   <a href="#team-connections" class="md-nav__link">
     <span class="md-ellipsis">
       Team Connections
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#top-5-changes-to-our-software-design" class="md-nav__link">
+    <span class="md-ellipsis">
+      Top 5 changes to our software design
     </span>
   </a>
   
@@ -1118,6 +1136,13 @@ A block schematic of how the individual sub-systems are expected to be connected
 </tr>
 </tbody>
 </table>
+<h2 id="top-5-changes-to-our-software-design">Top 5 changes to our software design</h2>
+<ol>
+<li>We are outputing a digital signal instead of an analog signal to determine that our door is open or closed. We had it outputing an analog signal but that would have been confusing to each other and there was no point. Instead we are sharing a signal that tells if the door is open or closed.</li>
+<li>We removed our timer for the alarm system, as it did not work. It just paused the entire system waiting to turn on the alarm, so it was changed to be an instant activation.</li>
+<li>We changed our motor idea, as we were planning on using an encoder to track where the lock was and if the door was locked or unlocked. Instead we got rid of that because it got very confusing to try and code and wire.</li>
+<li></li>
+</ol>
 
 
 
