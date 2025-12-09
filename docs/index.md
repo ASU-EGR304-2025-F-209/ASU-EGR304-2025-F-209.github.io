@@ -24,6 +24,30 @@ Professor Kevin Nichols<br>
 ## Project Introduction
 > We aim to design and build an electronic door sensor that is capable of auto-locking and has an alarm warning function. This device is designed to provide convenience and security by ensuring safety and comfort knowing your door is safely locked when you are away.
 
+## Images
+Here are some pictures of our project.
+
+![Matthew](Matthew.jpg)
+**Figure 01** Mathew's Design
+
+<br>
+
+![Bryce](Bryce.jpg)
+**Figure 02** Bryce's Design
+
+<br>
+
+![Andrew](Andrew.png)
+**Figure 03** Andrew's Design
+
+<br>
+
+
+![Dylan](Dylan.jpg)
+**Figure 04** Dylan's Design
+
+<br>
+
 ## Team Members Datasheet links
 
 | **Team Member**        |**Ind Datasheet Links** |
