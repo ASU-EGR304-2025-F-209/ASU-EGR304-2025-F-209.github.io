@@ -21,7 +21,7 @@ Here are some pictures of our project.
 <br>
 
 
-![Dylan](Dylan.png)
+![Dylan](Dylan.jpg)
 **Figure 04** Dylan's Design
 
 <br>
