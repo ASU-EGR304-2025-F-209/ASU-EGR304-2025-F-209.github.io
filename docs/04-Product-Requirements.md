@@ -37,9 +37,10 @@ The 72-year-old retired teacher Kai suffers from arthritis which limits his mobi
 
 * **Persona 3: Sam**
 Sam travels extensively because he spends extended periods outside his home. The system needs to track door activity precisely while sending alerts about unusual door behavior or extended door openings. The system needs to operate consistently for extended periods while resisting environmental stress to prevent breakdowns when no one is present.
+
 ## Requirements
 
-1. Functional Requirements
+### 1. Functional Requirements
 
 1.1 The device shall detect door position states with at least 99 percent accuracy under normal residential use conditions.
 
@@ -53,7 +54,7 @@ Sam travels extensively because he spends extended periods outside his home. The
 
 1.6 The device shall support operation during temporary loss of external connectivity and shall restore full reporting when connectivity returns with no user intervention.
 
-2. Usability and Accessibility Requirements
+### 2. Usability and Accessibility Requirements
 
 2.1 The device shall communicate door status in a format understandable by users who have reduced hearing, reduced vision, or limited mobility.
 
@@ -65,7 +66,7 @@ Sam travels extensively because he spends extended periods outside his home. The
 
 2.5 Instructions shall be understandable at a reading level equivalent to grade eight.
 
-3. Safety Requirements
+### 3. Safety Requirements
 
 3.1 The device shall not create pinch hazards and shall maintain a minimum physical clearance of four millimeters between moving parts.
 
@@ -76,7 +77,7 @@ Sam travels extensively because he spends extended periods outside his home. The
 3.4 The device shall generate a user alert when its remaining power is estimated to last fewer than two weeks of normal operation.
 
 
-4. Reliability and Durability Requirements
+### 4. Reliability and Durability Requirements
 
 4.1 The device shall complete at least fifty thousand door state cycles without measurable degradation of accuracy greater than one percent.
 
@@ -89,7 +90,7 @@ ptions.
 
 4.5 The device shall resume normal function within five seconds following a power restoration event.
 
-5. Environmental and Manufacturing Requirements
+### 5. Environmental and Manufacturing Requirements
 
 5.1 The device shall contain at least ninety percent recyclable material by weight.
 
