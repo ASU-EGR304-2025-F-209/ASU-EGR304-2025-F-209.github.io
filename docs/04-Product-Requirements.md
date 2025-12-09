@@ -42,40 +42,63 @@ Sam travels extensively because he spends extended periods outside his home. The
 1. Functional Requirements
 
 1.1 The device shall detect door position states with at least 99 percent accuracy under normal residential use conditions.
+
 1.2 The device shall report a change in door position within one second of that change.
+
 1.3 The device shall store a minimum of five hundred recorded door events accessible for review.
+
 1.4 The device shall operate without user recalibration for at least twelve months under typical usage.
+
 1.5 The device shall function in indoor temperatures between zero and forty degrees Celsius with no performance loss measurable greater than five percent.
+
 1.6 The device shall support operation during temporary loss of external connectivity and shall restore full reporting when connectivity returns with no user intervention.
+
 2. Usability and Accessibility Requirements
 
 2.1 The device shall communicate door status in a format understandable by users who have reduced hearing, reduced vision, or limited mobility.
+
 2.2 The setup process shall be completable by a first time user in less than fifteen minutes using only basic tools commonly found in residential settings.
+
 2.3 All user facing feedback indicators shall be perceivable at a distance of at least three meters under normal indoor lighting.
+
 2.4 The device shall require no fine motor action smaller than ten millimeters for setup or operation.
+
 2.5 Instructions shall be understandable at a reading level equivalent to grade eight.
 
 3. Safety Requirements
 
 3.1 The device shall not create pinch hazards and shall maintain a minimum physical clearance of four millimeters between moving parts.
+
 3.2 The device shall remain safe to touch in operating conditions and shall not exceed a surface temperature of fifty degrees Celsius.
+
 3.3 The device shall enter a fail safe state that prevents entrapment hazards if internal power is lost.
+
 3.4 The device shall generate a user alert when its remaining power is estimated to last fewer than two weeks of normal operation.
+
 
 4. Reliability and Durability Requirements
 
 4.1 The device shall complete at least fifty thousand door state cycles without measurable degradation of accuracy greater than one percent.
+
 4.2 The device shall withstand direct mechanical force of at least four thousand five hundred newtons without structural failure.
+
 4.3 All components shall function after storage at humidity levels up to eighty percent for at least one month.
-4.4 The device shall operate for at least twelve months on a single set of consumer replaceable batteries under standard usage assumptions.
+
+4.4 The device shall operate for at least twelve months on a single set of consumer replaceable batteries under standard usage assum
+ptions.
+
 4.5 The device shall resume normal function within five seconds following a power restoration event.
 
 5. Environmental and Manufacturing Requirements
 
 5.1 The device shall contain at least ninety percent recyclable material by weight.
+
 5.2 The device packaging shall contain at least ninety percent recyclable or biodegradable material by weight.
+
 5.3 The device design shall allow disassembly of major subassemblies in under three minutes for repair by trained service personnel.
+
 5.4 All materials used shall comply with RoHS restrictions on hazardous substances.
+
 
 
 ## Open Questions
