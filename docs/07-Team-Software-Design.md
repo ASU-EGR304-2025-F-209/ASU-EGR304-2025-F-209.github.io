@@ -29,23 +29,23 @@ If correct, the Fingerpad subsystem continues unto the main loop, else, a re-inp
 This simply works as an override button. When pulled high, it disables the activities of both the Motor and Alarm Subsystem, and forces them to their low states.
 
 ### Motor Subsystem
-The motor system receives a signal from the Fingerpad, Toggle switch and UR Sensor in order to changes states depending on either a locking or an unlocking sequence.
+The motor system receives a signal from the Fingerpad, Toggle switch and IR Sensor in order to changes states depending on either a locking or an unlocking sequence.
 
 **Motor State Semantics**
 
 - State 001 (Closed/Locked, Idle): The motor remains disabled while the lock remains engaged, and the status LED displays "closed."Here, the fingerpad array does not match, or the toggle switch is on.
 
-- State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation. All 3 conditions, UR Sensor sends an high ,fingerpad array matches, and the toggle switch is off (low), must be met.
+- State 002 (Moving): The H-bridge enables motor operation through direction control from commands. The H-Bridge sends power to control the direction the motor spins, which decides whether it is an unlock or lock operation. All 3 conditions, IR Sensor sends an high ,fingerpad array matches, and the toggle switch is off (low), must be met.
 
 
 ### Alarm Subsystem
-The Alarm system is enabled as soon as the subsystem's internal timer finishes counting down when the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. It requires the UR Sensor and Toggle switch Input.
+The Alarm system is enabled as soon as the subsystem's internal timer finishes counting down when the distance value exceeds the closed door value for a period of time. This Subsystem serves as a measure to ensure the door is not left open too long. It requires the IR Sensor and Toggle switch Input.
 
 **Alarm State Semantics**
 
-- State 001 (Closed, Idle): The alarm subsystem is idle; no components are running. Here, the UR Sensor sends a low or the toggle switch sends an high.
+- State 001 (Closed, Idle): The alarm subsystem is idle; no components are running. Here, the IR Sensor sends a low or the toggle switch sends an high.
 
-- State 002 (Alarm On): The timer from the motor subsystem sends a signal to the alarm subsystem after. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning. The UR Value must be high and Toggle Switch low for the alarm to run.
+- State 002 (Alarm On): The timer from the motor subsystem sends a signal to the alarm subsystem after. This enables the speaker that plays the warning sound and the red LED as a visual signal for the warning. The IR Value must be high and Toggle Switch low for the alarm to run.
 
 
 
